@@ -1,0 +1,22 @@
+---
+title: "The Executive Committee"
+---
+
+Send an email to the correct person on the committee.
+
+| Role | Name | Email |
+|------|------|-------|
+| President | | [president@sastat.org](mailto:president@sastat.org) |
+| Vice President | University of Pretoria | [inger@sastat.org](mailto:inger@sastat.org) |
+| Treasurer | | [treasurer@sastat.org](mailto:treasurer@sastat.org) |
+| Secretary | University of Pretoria | [secretary@sastat.org](mailto:secretary@sastat.org) |
+| Journal Managing Editor | | [managing.editor@sastat.org](mailto:managing.editor@sastat.org) |
+| Newsletter Editor | | [newsletter@sastat.org](mailto:newsletter@sastat.org) |
+| Chair: Education Committee | | [chair.educom@sastat.org](mailto:chair.educom@sastat.org) |
+| Sponsorships Coordinator | | [sponsorships@sastat.org](mailto:sponsorships@sastat.org) |
+| Young Statisticians Coordinator | | [young.stats@sastat.org](mailto:young.stats@sastat.org) |
+| Funding | Michael von Maltitz | [funding@sastat.org](mailto:funding@sastat.org) |
+| Website and GlueUp | Raeesa Ganey | [webmaster@sastat.org](mailto:webmaster@sastat.org) |
+| Events Coordinator | Johané Nienkemper-Swanepoel | [events@sastat.org](mailto:events@sastat.org) |
+| Information Officer | Brenda Otieno Mac'Oduol | [info@sastat.org](mailto:info@sastat.org) |
+: {.committee}

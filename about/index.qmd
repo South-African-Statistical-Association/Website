@@ -1,0 +1,16 @@
+---
+title: "About SASA"
+---
+
+The South African Statistical Association (SASA) is a non-profit organisation. It promotes the study and use of statistics in South Africa.
+
+## Constitution
+
+The SASA constitution tells how SASA and its groups and societies work. SASA revises it every 5 years.
+
+[Download the SASA Constitution (2021 Special Revision)](files/SASA-Constitution-2021.pdf){.btn-sasa}
+
+## More about SASA
+
+- [Our Mission](our-mission.qmd)
+- [The Executive Committee](the-executive-committee.qmd)

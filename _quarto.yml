@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "South African Statistical Association"
+  site-url: https://www.sastat.org
+  favicon: images/logo.png
+  page-navigation: false
+  navbar:
+    logo: images/logo.png
+    logo-alt: "SASA logo"
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu:
+          - href: about/index.qmd
+            text: About SASA
+          - href: about/our-mission.qmd
+            text: Our Mission
+          - href: about/the-executive-committee.qmd
+            text: The Executive Committee
+      - href: apply-for-sasa-membership.qmd
+        text: Membership
+      - href: journal.qmd
+        text: Journal
+      - href: articles.qmd
+        text: News and Articles
+      - href: resources.qmd
+        text: Resources
+  page-footer:
+    left: "South African Statistical Association"
+    right:
+      - text: "info@sastat.org"
+        href: mailto:info@sastat.org
+      - icon: facebook
+        href: https://www.facebook.com/SASAstatistics/
+      - icon: linkedin
+        href: https://www.linkedin.com/company/south-african-statistical-association-sasa/
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    anchor-sections: false

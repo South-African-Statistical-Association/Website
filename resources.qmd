@@ -1,0 +1,15 @@
+---
+title: "Resources"
+---
+
+## Careers in statistics
+
+A 12-page brochure (PDF) about careers in statistics. It tells what statistics is, who should become a statistician, and which fields employ statisticians. It also gives contact details for universities.
+
+## Statistical terms
+
+A list of approximately 7200 statistical terms, for statisticians, translators and the public.
+
+## glosario
+
+An open source glossary of terms in statistics and data science, in English, Afrikaans, isiXhosa and more.
