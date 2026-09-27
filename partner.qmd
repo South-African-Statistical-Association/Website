@@ -1,0 +1,25 @@
+---
+title: "Partner and Advertise with SASA"
+---
+
+## Sponsorship Support Initiatives
+
+SASA enriches educational and developmental opportunities by facilitating financial support for study, research, and teaching through bursaries, scholarships, and awards, made possible through generous sponsorships from companies and corporations.
+
+Each year, SASA strives to recognize, encourage, and support students pursuing statistical degrees at South African institutions of higher learning. The SASA Executive Committee (EC) manages the operational aspects of student competitions and awards, ensuring that the quality of awardees is vetted by experts. Additionally, SASA organizes an annual conference, featuring two days of high-level workshops led by leading statisticians, followed by a three-day conference. We aim to support as many students as possible, as there are many deserving candidates each year.
+
+For this, we seek your support, which will be duly recognized by SASA. Sponsors can engage with the winners, who are exceptional young statisticians, and follow their career paths for potential recruitment. Sponsoring SASA provides organizations with significant benefits, including brand visibility, access to top talent, enhanced corporate image, and valuable networking opportunities. Refer to the infographic below to explore the various partnership opportunities available with SASA for sponsorship initiatives.
+
+## Advertise with SASA
+
+SASA can provide a platform for organizations to advertise job opportunities for Statisticians and Data Scientists, giving these adverts significant exposure within our community, including top students. To access this benefit, organizations are required to be affiliated members of SASA. See our [membership](apply-for-sasa-membership.qmd) page for more information.
+
+If you are interested in partnering or advertising with us, please email [sponsorships@sastat.org](mailto:sponsorships@sastat.org).
+
+## SASA Sponsorship Infographic
+
+[Download the SASA Sponsorship Infographic (PDF)](files/SASA-Sponsorship-Infographic.pdf){.btn-sasa}
+
+```{=html}
+<iframe class="pdf-frame" src="files/SASA-Sponsorship-Infographic.pdf" title="SASA Sponsorship Infographic"></iframe>
+```

@@ -1,0 +1,15 @@
+---
+title: "Professional Registration with SACNASP"
+---
+
+The [South African Council for Natural Scientific Professions (SACNASP)](https://www.sacnasp.org.za/) is the legislated regulatory body for natural science practitioners in South Africa.
+
+The natural sciences encompass a wide range of scientific fields covering all basic sciences, including Statistical Science. As Statisticians, we are required by law to register with SACNASP.
+
+As a registered scientist, one is protected by the council through legal support when performing one's duty and the council ensures the upkeep of skills of all Statisticians through a CPD system.
+
+In addition, SACNASP offers annual support to the SASA conference and offers a mentorship program for novice Statisticians. We encourage all SASA members to register with SACNASP.
+
+[Register with SACNASP](https://www.sacnasp.org.za/){.btn-sasa}
+
+SASA members who are registered with SACNASP can claim Continuing Professional Development (CPD) points for attending SASA related events, such as Interest Group seminars, the SASA conference and SASA pre-conference workshops. See also [Professional Bodies](community/professional-bodies.qmd).

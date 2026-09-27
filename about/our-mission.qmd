@@ -2,10 +2,17 @@
 title: "Our Mission"
 ---
 
-SASA will:
+The mission of SASA shall be to foster the study and knowledge of statistical theory and its application towards improving the quality of life of all South Africans.
 
-- Produce up-to-date publications of high quality, which include the South African Statistical Journal (SASJ) and the Conference Proceedings.
-- Send members news and information through the SASA Newsletter.
-- Organise an annual conference.
-- Give members access to the SASJ, the official journal, and other publications.
-- Do all other work that helps these goals in a careful and organised way.
+The Association shall strive to accomplish this mission:
+
+- to create a forum for nurturing, attracting and retaining statisticians in South Africa, and advancing their interests;
+- to actively market the discipline of statistics in order to improve the general perception and appreciation of the discipline;
+- to support members by providing a platform for networking opportunities and publications;
+- to produce timely and high quality up-to-date publications, including the South African Statistical Journal (SASJ) and the Conference Proceedings, and communicate to its members relevant information and news through the Newsletter.
+
+The Association will arrange an annual conference and will communicate with members by means of the SASA Newsletter, the official Newsletter, and by making available to members the SASJ, the official journal, and/or any other publication; and will in general carry out in a judicious and organised manner any function or act in pursuance of and promoting the above goals.
+
+::: {.small-muted}
+Note: SASA does not have collections of statistical data.
+:::

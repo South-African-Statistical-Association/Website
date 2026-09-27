@@ -1,0 +1,84 @@
+---
+title: "President's Address: SASA 2025"
+author: "Daniel Maposa"
+date: 2025-11-01
+date-format: "MMMM YYYY"
+description: "The opening address of the 66th SASA conference at North-West University: remembering departed colleagues, the evolving role of the statistician, ethics and integrity, and a message to young statisticians."
+image: ../../images/articles/presidents-column.jpg
+---
+
+The Vice-Chancellor and Principal of North-West University: Professor Bismark Tyobeka, Deputy Vice-Chancellors, Executive Deans, Directors of Schools in absentia, Statistician General, Distinguished Invited Guests, Esteemed Colleagues, Honoured Partners, Members of the South African Statistical Association (SASA), Students herein, and Friends: I greet you all!
+
+## Bereavement news
+
+As most of you may be aware, this year the South African Statistical Association (SASA) community lost Professor Jacqueline (Jacky) Galpin who was attached to the University of Witwatersrand until her retirement from academia. Prof Jacky, as she was affectionately known, was a prominent statistician and dedicated member of the Association who served in the Executive Committee for an unparalleled 21 years (1988-2009) and was SASA President in 1998. Additionally, the Association lost Prof Nico Laubscher who worked with Prof Galpin at CSIR as her head; Prof Simon Meintanis, who served as Visiting Extraordinary Professor of Statistics at NWU from 2012 to his time of passing in February this year. Prof Meintanis was co-Winner of the Sichel Medal in 2023 and awardee of SASA Fellowship in the same year; and Dr Linda Van der Merwe who was attached to the University of the Free State.
+
+In memory of all these mentioned and other departed SASA members not mentioned, may I request that we observe a minute of silence.
+
+## Celebration news
+
+Professor Ding-Geng Chen, one of the top seven scholars in South Africa, was honoured and inducted as a Fellow of the Royal Society of South Africa on 25 October 2025 in Cape Town in recognition of his exceptional leadership and influential contributions to mathematics, statistics, and biostatistics research. Prof Din Chen serves as an Extraordinary Professor at the University of Pretoria. Prof Din Chen is a SARChI Research Chair in Biostatistics (Tier 1) and is an NRF B1 rated researcher. In celebration of this excellence may I request that we give him a round of applause.
+
+## President's Address
+
+Now allow me to begin my address!
+
+It is my privilege and profound honour to welcome you to the opening of the 66th South African Statistical Association (SASA2025) conference. Today, we gather here as a community of thinkers and innovators who understand the fundamentals of statistics.
+
+This conference marks one of the most important annual gatherings in our scientific community. It is a space where interaction and collaboration strengthen the future of our profession. As President of SASA, I am deeply proud to preside over the opening of this year's event.
+
+We are meeting at a time of rapid changes locally and globally. The world is going through a period of complex economic pressures, rising inequality, diminishing research funds, climate instability, health challenges, and technological disruptions. At the same time, artificial intelligence (AI) and advanced data analytics are transforming every industry. In the midst of this transformation, the role of statistics has become more vital. Today, our field of statistics is both very relevant and indispensable.
+
+South Africa's data landscape reflects both significant progress and persistent challenges. We continue to face:
+
+- Gaps in administrative and local-level data.
+- Uneven data quality across sectors.
+- Limited statistical capacity in key institutions, including universities, public and private sectors.
+- Underinvestment in long-term data infrastructure.
+- The digital divide that restricts access to information.
+
+Nonetheless, we have also witnessed inspiring advancements in South Africa, for instance:
+
+- Statistics South Africa (Stats SA) remains a global leader in the production of official statistics despite immense resource pressures.
+- The graduate statisticians and data scientists coming from our universities are highly competitive worldwide.
+- The capabilities of private-sector analytics have grown rapidly, driving innovation in areas such as retail, among others.
+- Our researchers continue to publish world-class work in both theoretical and applied statistics.
+
+Our responsibility as SASA is to help bridge the gaps in skills, data literacy, data quality, and public understanding.
+
+As you are aware, our profession is evolving. The statistician of today is not the statistician of 20 years ago. Today, we are data scientists, programmers, investment analysts, advisors, modellers, researchers, educators and ethics guardians, among others.
+
+We are expected to understand algorithms and AI; to navigate uncertainty; to explain complex concepts to non-statistician audiences; to uphold fairness and transparency; and to partner across disciplines. This evolution of our role is not something to fear; it is something to embrace. We should be aware that at its heart, statistics has always been about adaptability and clarity in the face of complexity.
+
+This year's Conference Programme reflects the breadth of our field, with sessions ranging from Data Science to Survey Statistics, Bayesian Statistics to Extreme Value Theory, Spatial Statistics to Biostatistics, Directional Statistics to Computational Statistics, Theoretical Statistics to Applied Statistics, Statistics in Education to Statistics in Sport, Multivariate Statistics to Industry-Related Research, among others. This shows how deeply embedded our discipline has become in the engine rooms of society.
+
+The evolution of our profession comes with high demands for ethics and integrity. As our tools become more powerful, so do the implications of our work. AI, automated decision-making systems, predictive analytics, and large-scale data integration offer unprecedented possibilities while at the same time posing significant ethical risks. We must guard against algorithmic bias, misinterpretation of data, misuse of statistical findings, violations of privacy, and erosion of public trust, among others.
+
+As SASA, we remain steadfast in our commitment to uphold the highest standards of ethics and integrity. Our voice must remain independent, evidence-based, honest and principled. I call upon this Association to remember the famous quote by Ronald Coase, a Nobel-Prize winning economist who said "If you torture the data long enough, it will confess to anything", which was a refinement of the 1961 earlier version by the French sociologist Alfred Sauvy, who wrote "Figures are innocent people who, under solicitation, under torture, very quickly confess what is asked of them, even if it means retracting later".
+
+There is an African proverb that says "It's fear of what tomorrow may bring that makes the tortoise carry its house wherever it goes". In alignment with this proverb, we need to invest in our students and young statisticians. I want to speak directly to the students and Young Statisticians in this room.
+
+- You are the future of this statistics discipline.
+- You are the innovators and leaders who will shape South Africa's data landscape for decades to come.
+- You bring new perspectives, new approaches, new energy and new vision.
+
+However, we also recognise that you face various challenges, including among others: access to funding, mentorship, networking opportunities, and uneven industry exposure. Many young professionals find it difficult to transition into leadership roles. That is why as SASA we are strengthening our commitment to capacity building. This includes:
+
+- Expanding bursary programmes,
+- Creating structured mentorship initiatives, e.g. the StatSNetSA workshop,
+- Offering more training in modern statistical and data science tools as reflected in our conference workshops this year,
+- Involving Young Statisticians in SASA governance and decision-making.
+
+To our Young Statisticians, this organisation is yours and your future matters to us.
+
+In order to survive as an Association, we need to build meaningful and long-term partnerships. This conference brings together public-sector statisticians, academics and researchers, industry experts, data scientists, students, and international collaborators. Each of these groups is a crucial pillar of a healthy statistical ecosystem.
+
+In the coming year, SASA will intensify collaboration with Statistics South Africa (which has already commenced), and private-sector organisations, among others. Let this conference strengthen the bonds that move our profession forward.
+
+Ladies and gentlemen, colleagues and friends: As I conclude, I would like to thank the Local Organising Committee chaired by Prof Neill Smit, the Scientific Committee chaired by Prof Charl Pretorius, our academic and industry partners, our sponsors (namely CoE-MaSS, NITheCS, NRF, NWU, SAS and SACNASP), our speakers (notably: Prof Rafik Soyer from the George Washington University, USA; Professor Hadley Wickham from Posit PBC in the USA; Professor Sophie Dabo-Niang from University of Lille, France; Jacques Venter from ABSA Bank, South Africa; Professor Janet van Niekerk from King Abdullah University of Science and Technology, Saudi Arabia; and our very own Professor Riaan de Jongh from NWU, South Africa) and every participant herein who made efforts to grace this SASA event.
+
+It is with great pride and optimism that I now declare the 66th South African Statistical Association Conference officially open!
+
+May this be a week of insight, conversation, networking, inspiration, and impact.
+
+Dankie; Ndiyabonga; Enkosi; Ke a leboga; Kea leboha; Ndo livhuwa; Ndza khensa; Ndatenda; I thank you.

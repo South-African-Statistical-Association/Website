@@ -1,0 +1,12 @@
+---
+title: "Columns and Articles"
+listing:
+  contents: columns
+  sort: "date desc"
+  type: default
+  fields: [image, date, title, author, description]
+  date-format: "MMMM YYYY"
+  image-height: 160px
+---
+
+The President's Column appears in each issue of the SASA Newsletter (March, August and November). Presidential addresses from the annual conference and feature articles by members are also published here.

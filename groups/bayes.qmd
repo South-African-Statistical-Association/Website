@@ -1,0 +1,25 @@
+---
+title: "SASA Bayes Group"
+---
+
+The SASA Bayes Group brings together members interested in Bayesian statistics. Membership is free to all SASA members: [update your SASA profile](../update-profile.qmd) to join.
+
+## SASA Bayes Group Committee
+
+::: {.people}
+::: {}
+![](../images/people/allan-clarke.jpg)
+
+### Prof Allan Clarke
+<p class="role">Chair</p>
+[chair.bayes@sastat.org](mailto:chair.bayes@sastat.org)
+:::
+
+::: {}
+![](../images/people/siphumlile-mangisa.jpg)
+
+### Dr Siphumlile Mangisa
+<p class="role">Secretary</p>
+[secretary.bayes@sastat.org](mailto:secretary.bayes@sastat.org)
+:::
+:::

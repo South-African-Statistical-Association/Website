@@ -1,0 +1,174 @@
+---
+title: "SASA Conferences"
+---
+
+SASA holds its annual conference in late November or early December. The programme normally opens with two days of workshops, followed by a three-day conference.
+
+## Upcoming conference
+
+### SASA 2026
+
+**University of the Witwatersrand**, Johannesburg (Birchwood Hotel and OR Tambo Conference Centre)<br>
+23 – 27 November 2026
+
+[Conference website](https://sasaconference2026.org/){.btn-sasa}
+
+## Past conferences
+
+::: {.events-list}
+::: {}
+### SASA 2025
+<p class="event-meta">North-West University · Vanderbijlpark · 24 – 28 November 2025</p>
+**LOC Chair:** Dr Neill Smit<br>
+**Invited speakers:** Prof Rafik Soyer (George Washington University), Prof Hadley Wickham (Posit PBC), Prof Sophie Dabo-Niang (University of Lille), Jacques Venter (ABSA), Prof Janet van Niekerk (KAUST), Prof Riaan de Jongh (NWU)<br>
+**Sponsors:** CoE-MaSS, NITheCS, NRF, NWU, SAS and SACNASP
+
+[Website](https://app.glueup.com/event/sasa-2025-137373/) · [Event photographs](https://www.sastat.org/events/conferences/sasa-2025/workshop-and-conference)
+:::
+
+::: {}
+### SASA 2024
+![](../images/conferences/sasa-2024.jpg){.conf-logo}
+
+<p class="event-meta">University of the Western Cape · Stellenbosch · 18 – 22 November 2024</p>
+**LOC Chair:** Dr Humphrey Brydon<br>
+**LOC:** Prof Renétte Blignaut, Dr Retha Luus, Dr Philomene Nsengiyumva, Dr Julia Keddie, Ms Ronell Lombard Jacobus, Mrs Chanel Morkel<br>
+**Plenary speakers:** [Prof Mohammad Arashi](https://www.linkedin.com/in/mohammadarashi), [Prof Carlos A. Coelho](https://www.researchgate.net/profile/Carlos-Coelho-9), [Prof Tanja Verster](https://www.linkedin.com/in/tanja-verster-8181b412/), [Prof Maxim Finkelstein](https://www.ufs.ac.za/research/unlisted-pages/our-leaders-in-research/prof-maxim-finkelstein-97), [Mr Lucas van der Meer](https://www.linkedin.com/in/luuk-van-der-meer/), [Dr Alex Shabala](https://www.capitecbank.co.za/blog/articles/your-career/getting-to-know-alex-shabala-head-of-data-science/)
+
+[Website](https://uctcmc.eventsair.com/65th-annual-conference-of-the-south-african-statistical-association/) · [Event photographs](https://www.sastat.org/events/conferences/sasa-2024/workshop-and-conference)
+:::
+
+::: {}
+### SASA 2023
+![](../images/conferences/sasa-2023.jpg){.conf-logo}
+
+<p class="event-meta">University of KwaZulu-Natal · Durban · 27 – 28 November 2023 (Workshops), 29 November – 1 December 2023 (Conference)</p>
+**LOC Chair:** Prof Delia North<br>
+**LOC:** Dr Danielle Roberts, Dr Nombuso Zondo, Mrs Shakila Thakupersad, Mrs Arusha Desai, Prof Temesgen Zewotir, Prof Retius Chifurira, Prof Knowledge Chinhamu<br>
+**Plenary speakers:** Dennis Lin, Mark Glickman, Tertius de Wet, Maxim Finkelstein
+
+[Programme and abstracts](https://drive.google.com/file/d/1hdboeanvREqfvk_TXhqJ-NBYxZVyu1BN/view) · [Website](https://app.glueup.com/event/sasa-2023-78969/) · [Event photographs](https://www.sastat.org/events/conferences/sasa2023/photos)
+:::
+
+::: {}
+### SASA 2022
+![](../images/conferences/sasa-2022.png){.conf-logo}
+
+<p class="event-meta">SASA Executive Committee · George · 28 – 29 November 2022 (Workshops), 30 November – 2 December 2022 (Conference)</p>
+**LOC Chairs:** Dr Warren Brettenny, Dr Chantelle Clohessy, Prof Charl Pretorius, Prof Inger Fabris-Rotelli<br>
+**Plenary speakers:** Prof Ruth Etzioni, Prof Robert Gramacy<br>
+**Keynote speakers:** Prof Sheetal Silal, Dr Mark Nasila, Mr Ashwell Jennecker, Prof Pravesh Debba, Prof Renette Blignaut
+
+[Programme and abstracts](https://drive.google.com/file/d/1McvsDnNuU0Aq53y2hCdXwaBR8GFqdQjY/view?usp=sharing) · [Event photographs](https://www.sastat.org/events/conferences/sasa2022/photos)
+:::
+
+::: {}
+### SASA 2021
+![](../images/conferences/sasa-2021.jpg){.conf-logo}
+
+<p class="event-meta">Stellenbosch University · Stellenbosch · 29 – 30 November 2021 (Workshops), 1 – 3 December 2021 (Conference)</p>
+**LOC Chair:** Prof Sugnet Lubbe<br>
+**Plenary speakers:** Prof Jonathan Crook, Prof Gareth James, Dr Ali Joglekar, Prof Saralees Nadarajah, Prof Emmanuel Lesaffre, Dr McElory Hoffmann, Dr Johan van der Merwe
+
+[Programme](https://drive.google.com/a/sastat.org/open?id=12-I6EaFZRND5UifsYu5OQ4I5Z67t_gc9) · [Abstracts](https://drive.google.com/a/sastat.org/open?id=12ZqRuzeixCxQ4PeAEzywf9BMfN5A-4TT)
+:::
+
+::: {}
+### SASA 2019
+![](../images/conferences/sasa-2019.jpg){.conf-logo}
+
+<p class="event-meta">Nelson Mandela University · Port Elizabeth · 25 – 26 November 2019 (Workshops), 27 – 29 November 2019 (Conference)</p>
+**LOC Chair:** Prof Gary Sharp<br>
+**Invited speakers:** Professor Tim Swartz, Professor Deborah Nolan and Professor Jennifer Priestly
+
+[Programme and abstracts](https://drive.google.com/a/sastat.org/open?id=1kJDnYhFV4et9EIaBbM1P-GJCi63-hMFN)
+:::
+
+::: {}
+### SASA 2018
+![](../images/conferences/sasa-2018.jpg){.conf-logo}
+
+<p class="event-meta">University of South Africa · Johannesburg · 26 November 2018 (Workshops), 27 – 29 November 2018 (Conference)</p>
+**LOC Chair:** Dr Eva Rapoo<br>
+**Invited speakers:** Professor Louise Ryan and Professor Berthold Lausen
+
+[Programme](https://drive.google.com/a/sastat.org/open?id=1EVogKHiT01Unl8WfpIiamyyN1lZRJ7uG)
+:::
+
+::: {}
+### SASA 2017
+![](../images/conferences/sasa-2017.jpg){.conf-logo}
+
+<p class="event-meta">University of the Free State · Bloemfontein · 27 November 2017 (Workshops), 28 – 30 November 2017 (Conference)</p>
+**LOC Chair:** Mr Frans Koning<br>
+**Invited speakers:** Professor Hansjoerg Albrecher and Professor Lixing Zhu
+
+[Programme and abstracts](https://drive.google.com/a/sastat.org/open?id=1EfWKxG5RhHJEmIPvmZ9n7XBikaqaw1Oh)
+:::
+
+::: {}
+### SASA 2016
+![](../images/conferences/sasa-2016.jpg){.conf-logo}
+
+<p class="event-meta">University of Cape Town · Cape Town · 28 November 2016 (Workshops), 29 November – 1 December 2016 (Conference)</p>
+**LOC Chair:** Prof Francesca Little<br>
+**Invited speakers:** Professor Marie Hušková and Professor Trevor Hastie
+
+[Programme and abstracts](https://drive.google.com/a/sastat.org/open?id=1Ej-XjMBwcmOAOPbYvgLwt2pL2vsNdQZy)
+:::
+
+::: {}
+### SASA 2015
+![](../images/conferences/sasa-2015.jpg){.conf-logo}
+
+<p class="event-meta">University of Pretoria and Statistics South Africa · Pretoria · 28 – 29 November and 3 – 4 December 2015 (Workshops), 30 November – 2 December 2015 (Conference)</p>
+**LOC Chair:** Dr Inger Fabris-Rotelli<br>
+**Invited speakers:** Professor Din Chen, Walter Rademacher and Dr Robert N. Rodriguez
+
+[Programme and abstracts](https://drive.google.com/a/sastat.org/open?id=1F5ANfQsN8rqDSiNpjyW5loW2K32Jw4KL)
+:::
+
+::: {}
+### SASA 2014
+![](../images/conferences/sasa-2014.jpg){.conf-logo}
+
+<p class="event-meta">Rhodes University · Grahamstown · 27 October 2014 (Workshops), 28 – 30 October 2014 (Conference)</p>
+**LOC Chair:** Dr Lizanne Raubenheimer<br>
+**Invited speakers:** Professor Ivette Gomes and Professor Simos Meintanis
+
+[Programme and abstracts](https://drive.google.com/file/d/1FlXqunJ82QuTN3GY_xHh5JWkHRSKHU3g/view)
+:::
+
+::: {}
+### SASA 2013
+![](../images/conferences/sasa-2013.jpg){.conf-logo}
+
+<p class="event-meta">University of Limpopo · Polokwane · 4 – 5 November 2013 (Workshops), 6 – 8 November 2013 (Conference)</p>
+**LOC Chair:** Prof Maseka Lesaoana<br>
+**Invited speakers:** Professor Ray Chambers, Professor James Cochran, Dr Bradley Jones and Professor Peter McCullagh
+
+[Programme](https://drive.google.com/file/d/1Fvm1fhMJphspygaOzojvil2vDuxkZeM2/view)
+:::
+
+::: {}
+### SASA 2012
+![](../images/conferences/sasa-2012.jpg){.conf-logo}
+
+<p class="event-meta">Nelson Mandela Metropolitan University · Port Elizabeth · 5 – 6 November 2012 (Workshops), 7 – 9 November 2012 (Conference)</p>
+**LOC Chair:** Dr Johan Hugo<br>
+**Invited speakers:** Professor Nicholas Fisher and Professor Jeffrey Racine
+
+[Programme and abstracts](https://drive.google.com/file/d/1G6iSdyYd6GgX-8p8kexg0sT44uQKdNTM/view)
+:::
+
+::: {}
+### SASA 2011
+![](../images/conferences/sasa-2011.jpg){.conf-logo}
+
+<p class="event-meta">Council for Scientific and Industrial Research and Statistics South Africa · Pretoria · 31 October and 4 November 2011 (Workshops), 1 – 3 November 2011 (Conference)</p>
+**LOC Chair:** Dr Pravesh Debba<br>
+**Invited speakers:** Professor Narayanaswamy Balakrishnan, Professor Dipak Dey and Professor Alfred Stein
+
+[Programme](https://drive.google.com/a/sastat.org/open?id=1mUkKg7aDHuVNSUKcEmmO4AkHM4UIAAlc)
+:::
+:::

@@ -1,0 +1,51 @@
+---
+title: "The Education Committee"
+---
+
+The SASA Education Committee runs the [bursary and scholarship competitions](bursaries-and-scholarships.qmd), the [student competitions](student-competitions.qmd) and SASA's statistics education initiatives.
+
+## Education Committee members
+
+::: {.people}
+::: {}
+![](../images/people/nombuso-zondo.jpg)
+
+### Dr Nombuso Zondo
+<p class="role">Chair</p>
+Chairperson, SASA Honours Project Competition<br>
+[chair.educom@sastat.org](mailto:chair.educom@sastat.org)
+:::
+
+::: {}
+![](../images/people/michael-von-maltitz.jpg)
+
+### Prof Michael von Maltitz
+<p class="role">Secretary</p>
+Secretary, Postgraduate Paper Competition, Stats content-collation initiative<br>
+[educom@sastat.org](mailto:educom@sastat.org)
+:::
+
+::: {}
+![](../images/people/yoko-chhana.jpg)
+
+### Mrs Yoko Chhana
+<p class="role">Committee Member</p>
+Marketing: website, newsletter and social media co-ordination; co-ordinate related education committee activities of MOUs
+:::
+
+::: {}
+![](../images/people/lizanne-raubenheimer.jpg)
+
+### Prof Lizanne Raubenheimer
+<p class="role">Committee Member</p>
+Third Year Bursary and Scholarship Competition; Honours Bursary and Scholarship Competition
+:::
+
+::: {}
+![](../images/people/delia-north.jpg)
+
+### Prof Delia North
+<p class="role">Committee Member</p>
+Image Building, Capacity building in Statistics Education
+:::
+:::

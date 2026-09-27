@@ -1,0 +1,20 @@
+---
+title: "Awards"
+---
+
+::: {.cards}
+::: {}
+### [SAS® Thought Leader Award](sas-thought-leader-award.qmd)
+For a person who has made an impact within the South African statistical community across a wide range of activities.
+:::
+
+::: {}
+### [Sichel Medal](sichel-medal.qmd)
+The Herbert Sichel Medal is awarded annually for the best statistical paper published by a member during the previous year.
+:::
+
+::: {}
+### [Postgraduate Awards](postgraduate-awards.qmd)
+Winners of the Postgraduate Paper Competition, the Honours Project Competition and the Young Statisticians prizes.
+:::
+:::

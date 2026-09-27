@@ -1,16 +1,14 @@
 /*-- scss:defaults --*/
 
-// Change these two values to the SASA colours.
-// You can get the exact codes from the Google Sites theme settings
-// (Themes > Customise) or with a colour picker on the logo.
-$sasa-main:   #1d3c6e;   // main colour: navbar, headings, buttons
-$sasa-accent: #c8962e;   // accent colour: lines and highlights
+// SASA colours: main blue (navbar, headings, buttons) and grey accent (lines).
+$sasa-main:   #1a4c7f;
+$sasa-accent: #9aa3ad;
 
 $primary: $sasa-main;
 $link-color: $sasa-main;
-$navbar-bg: $sasa-main;
-$navbar-fg: #ffffff;
-$navbar-hl: #ffffff;
+$navbar-bg: #ffffff;
+$navbar-fg: $sasa-main;
+$navbar-hl: $sasa-main;
 $footer-bg: #f3f4f6;
 
 $font-family-sans-serif: "Source Sans 3", "Segoe UI", Arial, sans-serif;
@@ -21,8 +19,12 @@ $body-color: #222;
 
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap");
 
+.navbar { border-bottom: 1px solid #d9dde2; }
 .navbar-brand img { max-height: 48px; }
 .navbar .nav-link { font-weight: 600; }
+.navbar .navbar-nav:last-child .nav-link {
+  background: $sasa-main; color: #fff !important; border-radius: 3px; padding: .35rem .9rem;
+}
 
 h1, h2, h3 { color: $sasa-main; }
 h2 {
@@ -31,7 +33,7 @@ h2 {
   margin-top: 2.5rem;
 }
 
-/* Page banner, in the style of the Google Sites header */
+/* Page banner on the home page */
 .page-banner {
   background: $sasa-main;
   color: #fff;
@@ -39,21 +41,79 @@ h2 {
   margin: -1rem -1rem 2rem -1rem;
   text-align: center;
 }
-.page-banner h1 { color: #fff; margin: 0; font-size: 2.2rem; }
+.page-banner .banner-title { color: #fff; margin: 0; font-size: 2.2rem; font-weight: 600; }
 .page-banner p { margin: .5rem 0 0; font-size: 1.1rem; opacity: .9; }
 
-/* Three short statements on the home page */
-.aims { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); margin: 1.5rem 0; }
-.aims > div { border-top: 4px solid $sasa-accent; padding-top: .75rem; }
-.aims h3 { font-size: 1.15rem; margin-top: 0; }
+/* Announcement strip */
+.notice {
+  background: #eef3f8; border-left: 5px solid $sasa-main;
+  padding: .9rem 1.2rem; margin: 1.5rem 0; border-radius: 3px;
+}
+.notice p { margin: 0; }
 
-/* Committee list */
+/* Six mission statements on the home page */
+.aims { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); margin: 1.5rem 0; }
+.aims > div { border-top: 4px solid $sasa-accent; padding-top: .75rem; }
+.aims h3 { font-size: 1.05rem; margin-top: 0; letter-spacing: .05em; text-transform: uppercase; }
+.aims img { max-height: 64px; margin-bottom: .5rem; }
+
+/* Card grid for section index pages */
+.cards { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); margin: 1.5rem 0; }
+.cards > div {
+  border: 1px solid #d9dde2; border-radius: 4px; padding: 1rem 1.2rem; background: #fff;
+}
+.cards h3 { margin-top: 0; font-size: 1.1rem; }
+.cards h3 a { text-decoration: none; }
+.cards img { width: 100%; height: 140px; object-fit: contain; margin-bottom: .6rem; }
+.cards p { margin-bottom: 0; }
+
+/* People grids (committees, editors, past presidents) */
+.people { display: grid; gap: 1.5rem 1.25rem; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); margin: 1.5rem 0; }
+.people > div { text-align: center; }
+.people img {
+  width: 150px; height: 150px; object-fit: cover; border-radius: 50%;
+  border: 3px solid $sasa-accent; margin-bottom: .6rem; background: #f3f4f6;
+}
+.people h3 { font-size: 1.05rem; margin: 0 0 .15rem; }
+.people .role { font-weight: 600; letter-spacing: .05em; text-transform: uppercase; font-size: .8rem; color: #555; }
+.people p { margin: .15rem 0; font-size: .95rem; }
+.people-sm img { width: 110px; height: 110px; }
+.people-sm h3 { font-size: .95rem; }
+
+/* Committee list without photos */
 .committee { width: 100%; border-collapse: collapse; }
 .committee td { padding: .6rem .5rem; border-bottom: 1px solid #ddd; vertical-align: top; }
 .committee td:first-child { font-weight: 600; width: 40%; }
 
+/* Membership tiers */
+.tiers { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin: 1.5rem 0; }
+.tiers > div { border: 1px solid #d9dde2; border-top: 5px solid $sasa-main; border-radius: 4px; padding: 1.2rem; }
+.tiers h3 { margin-top: 0; }
+.tiers .price { font-size: 1.8rem; font-weight: 700; color: $sasa-main; margin: 0; }
+.tiers .per { color: #666; font-size: .9rem; margin-bottom: .8rem; }
+
+/* Conference and event cards */
+.events-list > div { border-bottom: 1px solid #ddd; padding: 1rem 0; }
+.events-list h3 { margin-top: 0; }
+.event-meta { color: #555; margin-bottom: .4rem; }
+
 .btn-sasa {
   display: inline-block; background: $sasa-main; color: #fff !important;
-  padding: .55rem 1.2rem; border-radius: 3px; text-decoration: none; font-weight: 600;
+  padding: .55rem 1.2rem; border-radius: 3px; text-decoration: none; font-weight: 600; margin: .25rem .25rem .25rem 0;
 }
 .btn-sasa:hover { background: darken($sasa-main, 8%); }
+
+.pdf-frame { width: 100%; height: 640px; border: 1px solid #d9dde2; }
+.video-frame { aspect-ratio: 16 / 9; width: 100%; max-width: 800px; border: 0; }
+
+figure.figure { margin: 1.5rem 0; }
+figcaption { font-size: .9rem; color: #555; }
+
+/* Long name lists */
+.name-columns { column-width: 180px; column-gap: 2rem; }
+.name-columns p { margin: 0 0 .3rem; break-inside: avoid; }
+
+.small-muted { color: #666; font-size: .9rem; }
+
+.conf-logo { max-height: 90px; max-width: 260px; float: right; margin: 0 0 .5rem 1rem; }
+.events-list > div::after { content: ""; display: block; clear: both; }

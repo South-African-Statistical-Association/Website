@@ -2,14 +2,79 @@
 title: "Resources"
 ---
 
-## Careers in statistics
+## Careers in Statistics
 
-A 12-page brochure (PDF) about careers in statistics. It tells what statistics is, who should become a statistician, and which fields employ statisticians. It also gives contact details for universities.
+A brochure about careers in Statistics can be [downloaded here](resources/files/Careers-in-Statistics.pdf). The document consists of 12 pages of valuable information (in PDF format) about all aspects of a career in statistics. The following topics are covered in this document:
 
-## Statistical terms
+- What is Statistics?
+- Who should consider a career as Statistician?
+- What fields employ Statisticians?
+- What job title might I have other than Statistician?
+- Career opportunities for Statisticians
+- Statistics in:
+  - Data science
+  - Banking
+  - The mining industry
+  - Naval operations research
+  - Education
+  - Biological sciences
+  - Government statistics
+- The contact information of a number of universities is also included.
 
-A list of approximately 7200 statistical terms, for statisticians, translators and the public.
+A condensed version of the brochure is available [here](resources/files/Careers-in-Statistics-condensed.pdf).
 
-## glosario
+[Careers in Statistics brochure (PDF)](resources/files/Careers-in-Statistics.pdf){.btn-sasa} [Condensed version (PDF)](resources/files/Careers-in-Statistics-condensed.pdf){.btn-sasa}
 
-An open source glossary of terms in statistics and data science, in English, Afrikaans, isiXhosa and more.
+For more information, contact the SASA executive committee member responsible for the young statisticians network at [young.stats@sastat.org](mailto:young.stats@sastat.org).
+
+## Bilingual Dictionary
+
+[English – Afrikaans Glossary of Statistical Terms (PDF)](resources/files/English-Afrikaans-Glossary.pdf){.btn-sasa} [Afrikaans – Engelse Woordelys van Statistiese Terme (PDF)](resources/files/Afrikaans-Engels-Woordelys.pdf){.btn-sasa}
+
+### Preface from the Editors
+
+The list of statistical terms currently consists of approximately 7200 entries. Although the list is continuously updated, the editors have decided to make the list available in its current form to statisticians, members of the public using statistics, translators or any other interested parties. Therefore we were of the opinion that placing the list on the Internet would be most sensible for this purpose. Recognition is hereby given to the National Language Service of the former Department of Art, Culture, Science and Technology, having provided editorial support over many years in the person of Dea Swiegers. We also wish to express our appreciation for the valuable contribution made by John Lynch up to his withdrawal in 2005 due to health reasons. Without their assistance we would have experienced difficulty in reaching this milepost.
+
+In using this list of terms the following should be kept in mind:
+
+- It is not only an English-Afrikaans glossary but also contains contexts or sentences in which the terms occur, sometimes with brief definitions.
+- A division was made into subfields within the subject field in the context, and an adapted list of codes from Statistical Theory and Methods Abstracts was used.
+- The existing Statistical Dictionary was integrated with the list and is given as such under "Source publication". The new terms were obtained from the index of the Encyclopedia of Statistical Sciences (ESS), as well as from a list of terms provided to us by the International Statistical Institute (ISI), based on Marriott's dictionary and later on Dodge's dictionary. At the request of the ISI we have provided them with Afrikaans equivalents for their list of terms as part of a multilingual list of statistical terms currently being compiled by the ISI. See [http://www.cbs.nl/isi](http://www.cbs.nl/isi).
+
+### Voorwoord van die Redaksie
+
+Die lys van statistiese terme bestaan tans uit nagenoeg 7100 inskrywings. Hoewel die lys voortdurend bygewerk word, het die redaksie besluit om die lys in die huidige vorm beskikbaar te stel aan statistici, lede van die publiek wat statistiek gebruik, vertalers of sommer enige ander belangstellendes. Daarom het ons geoordeel dat die plasing op die Internet vir hierdie doel die sinvolste gaan wees. Erkenning word hiermee verleen aan die Nasionale Taaldiens se voormalige Departement Kuns, Kultuur, Wetenskap en Tegnologie, wat jare lank redaksionele ondersteuning verskaf het in die persoon van Dea Swiegers. Ook spreek ons groot waardering uit vir die waardevolle bydrae wat John Lynch gemaak het tot met sy uittrede in 2005 weens gesondheidsredes. Sonder hulle hulp sou ons moeilik hierdie mylpaal kon bereik.
+
+By die gebruik van die termlys moet die volgende in gedagte gehou word:
+
+- Dit is nie net 'n Afrikaans-Engelse woordelys nie, maar bevat ook kontekste of verbandsinne waarin terme voorkom, soms ook met kort definisies.
+- 'n Indeling binne subvakgebiede word gegee in die konteks en daar is van 'n aangepaste kodelys van Statistical Theory and Methods Abstracts gebruik gemaak.
+- Die bestaande Statistiekwoordeboek is met die lys geïntegreer en word onder "Bronpublikasie" as sodanig aangedui. Die nuwe terme is bekom uit die indeks van Encyclopedia of Statistical Sciences (ESS) asook uit 'n termlys wat deur die "International Statistical Institute" (ISI) aan ons voorsien is en gebaseer is op die woordeboek van Marriott en later op die woordeboek van Dodge. Ons het op ISI se versoek reeds Afrikaanse ekwivalente vir hul lys van terme voorsien as deel van 'n meertalige lys van statistiese terme wat die ISI tans saamstel. Kyk op [http://www.cbs.nl/isi](http://www.cbs.nl/isi).
+
+### References
+
+- Kotz, S. & Johnson, N.L., (Editors), (1982 - 98), Encyclopedia of Statistical Sciences, Vol. 1-9, Supplement & Update Vol. 1-2, John Wiley & Sons: New York.
+- Marriott, F.H.C., (Editor), (1990), A Dictionary of Statistical Terms, 5th edition. Published for the ISI by Longman Scientific & Technical: London.
+- Schoeman, H.S., (Editor), (1984), Statistiekwoordeboek / Statistical Dictionary. Staatsdrukker/Government Printer: Pretoria. (Uit druk / Out of Print).
+- Dodge, Yadolah, (Editor), (2003) The Oxford Dictionary of Statistical Terms. Oxford University Press.
+- Rasch, D., Tiku, M.L. & Sumpf, D., (Editors), (1994), Elsevier's Dictionary of Biometry. Elsevier: Amsterdam.
+
+Any comment on terms will be appreciated, as will be proposals for new terms which have not yet been included. Send these to:
+
+Dr M D Jankowitz<br>
+Department of Decision Sciences<br>
+P O Box 392<br>
+Unisa<br>
+0003<br>
+Tel: +27(0)12-433-4731<br>
+Email: [jankomd@unisa.ac.za](mailto:jankomd@unisa.ac.za)
+
+Enige kommentaar oor terme sal waardeer word, so ook voorstelle van nuwe terme wat nog nie opgeneem is nie. Stuur dit aan dieselfde adres hierbo (Departement Besluitkunde, Unisa).
+
+## glosario - A Multilingual Glossary Package
+
+glosario is an ever growing open source glossary of terms that are often used in statistics and data science. This glossary includes English, Afrikaans, isiXhosa (still under development) and isiZulu (still under development) and is available online and also as a library in both R and Python.
+
+This is a great resource for South African students and is available at [https://carpentries.github.io/glosario/](https://carpentries.github.io/glosario/).
+
+Contributions can also be made to help grow definitions, particularly under-represented languages (such as isiXhosa and isiZulu), as follows: [https://github.com/carpentries/glosario/blob/master/CONTRIBUTING.md](https://github.com/carpentries/glosario/blob/master/CONTRIBUTING.md).

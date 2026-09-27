@@ -1,0 +1,24 @@
+---
+title: "Community is Everything: President's Address, SASA 2023"
+author: "Inger Fabris-Rotelli"
+date: 2023-12-01
+date-format: "MMMM YYYY"
+description: "Reflections on SASA 2023 in Durban, a multilingual Grade 10 to 12 statistics video project sponsored by NITheCS, SACNASP registration, StatSNetSA and the Mathematical Sciences Strategic Alliance."
+image: ../../images/articles/inger-fabris-rotelli.jpg
+---
+
+SASA 2023 was a superb conference! Well done to the LOC. Your effort did not go unnoticed. We look forward to the 2024 host of the conference, the University of the Western Cape.
+
+In my presidential address at SASA 2023, I emphasised the role of community. Having been to a few conferences during 2023 I can without a doubt say that SASA was the best and is every year. The Statistics community in South Africa is so centric and supportive and when we come together at the conference each year it doesn't feel like a whole year since we last shared our research, and of course challenges. Our community has a severe capacity issue, both in academia and industry, coupled with a growing need for more graduates and faster curriculum redesign and collaboration. If we hope to maintain our sanity we can only work together.
+
+I highlighted in my address a number of initiatives to facilitate our community growth. The first recognises our multi-language country. I highlighted a wonderful recent book by Refiloe Moahloli, which encourages an understanding of all the languages a young girl may experience in class. This book highlights the beauty of our South African languages but at the same time the complexity of so many languages. The EC has embarked on a project to develop learning material for the Statistics syllabus Grade 10 -12, which will be recorded as videos in every South African language. This project has been generously sponsored by NITheCS and will support postgraduates (or faculty) in 2024 to assist with the translation and recordings. Look out for an announcement in 2024!
+
+NITheCS is the new National Institute for Theoretical and Computational Sciences, DSI funded, and is very supportive of everything computational including Statistics. If you have not signed up as an associate or looked at their activities, do so soon!
+
+In my address I also emphasised the importance of all statisticians registering with SACNASP. This is good for the protection of our field, through regulation by a professional body. Registering with SACNASP is required by law for every statistician.
+
+Another important community project is StatSNetSA which started in 2020 and focusses on the development of a Statistics Supervision Network in South Africa. This group has a focus on supervisor development in Statistics but also at the development of young academics in Statistics due to limited senior mentors and large teaching loads. Research projects in 2024 focus on sharing of a document with the guiding rubric which has been under construction during 2023 as well as development of insight in generative AI in supervision. If you are not yet part of this group: please join! Details on the [StatSNetSA page](../../groups/statsnetsa.qmd).
+
+A huge development during 2023 was the Mathematical Sciences Strategic Alliance which brings together stakeholders across mathematical sciences in South Africa to deal with the challenges of knowledge exchange, representation and training over the whole pipeline, namely from preschool through to university, focussing on learners and educators at all time points. This project is going big, wanting to solve these issues at a national level with support of all the relevant government departments. Every SASA member is invited to join this initiative, either with new ideas or existing projects that fit within the challenges pinpointed. In addition, if we have missed challenges, please feel free to bring this up.
+
+Wishing everyone a restful break and an exciting start to 2024!

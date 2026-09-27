@@ -1,0 +1,35 @@
+---
+title: "Data Science Group"
+---
+
+The Data Science Group is SASA's special interest group for data science. It includes the [Financial Data Science Group](financial-data-science.qmd) subgroup and offers [crash courses](crashcourses.qmd).
+
+## Data Science Group Committee
+
+::: {.people}
+::: {}
+![](../images/people/humphrey-brydon.png)
+
+### Dr Humphrey Brydon
+<p class="role">Co-Chair</p>
+University of the Western Cape
+:::
+
+::: {}
+![](../images/people/frans-kanfer.png)
+
+### Prof Frans Kanfer
+<p class="role">Co-Chair</p>
+University of Pretoria
+:::
+
+::: {}
+![](../images/people/inger-fabris-rotelli-ds.png)
+
+### Prof Inger Fabris-Rotelli
+<p class="role">Co-Chair</p>
+University of Pretoria
+:::
+:::
+
+Contact us: [datascience@sastat.org](mailto:datascience@sastat.org)

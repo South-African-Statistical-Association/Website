@@ -1,0 +1,47 @@
+---
+title: "Postgraduate Awards"
+---
+
+Winners of the SASA Education Committee's [student competitions](../education/student-competitions.qmd) and the Young Statisticians prizes at the annual conference.
+
+## Postgraduate Paper Competition 2025
+
+### Published paper
+
+**First Prize:** *A contaminated regression model for count health data.* Arno Otto (UP), supervised by Prof Johan Ferreira, with co-authors Dr Daniele Tomarchio, Prof Andriette Bekker and Prof Antonio Punzo.
+
+**Second Prize:** *Modelling toroidal data for representation and analysis of protein dihedral angles.* Claudio Jardim, supervised by Dr Najmeh Nakhaeirad, with co-author Prof Inger Fabris-Rotelli. [International Journal of Modelling and Simulation](https://www.tandfonline.com/journals/tjms20).
+
+### Unpublished papers
+
+**First Prize:** *Clustering data with values missing at random using scale mixtures of multivariate skew-normal distributions.* Jason Pillay (UP), supervised by Prof Andriette Bekker, with co-authors Prof Cristina Tortora and Prof Antonio Punzo.
+
+**Second Prize:** *Mixtures of multivariate linear asymmetric Laplace regressions with multiple asymmetric Laplace covariates.* Arno Otto (UP), supervised by Prof Johan Ferreira, with co-authors Prof Andriette Bekker, Prof Antonio Punzo and Prof Cristina Tortora.
+
+**Third Prize:** *A circular interval-valued time series model.* Thasmika Mohan (UP), supervised by Dr Najmeh Nakhaeirad, with co-author Dr Sphiwe Skhosana.
+
+## Honours Project Competition 2025
+
+**First Prize (R7 500):** "A Critical Analysis of History Matching and Emulation", Ms Sian Wood and Ms Molly Ryan (UCT), group project.
+
+**Second Prize (R5 500):** "Comparing Statistical Imputation Methods to XGBOOST's Internal Handling of Missing Data", Mr Musawenkosi Mthembu (WITS), individual project.
+
+**Third Prize (R4 000):** "Classification models determining queen bee status among hives using audio data", Mr Merwe Engelbrecht and Mr Christopher Paul (SU), group project.
+
+**Third Prize (R3 500):** "Temporal surveillance of antimicrobial resistance using minimum inhibitory concentration values: A Bayesian framework", Ms Jeanette Louw (UP), individual project.
+
+## Young Statisticians
+
+### Posters at SASA 2025
+
+**First Prize:** Odey Redi Mofokeng, "Refining wastewater surveillance through regression Kriging: A geostatistical approach to improve spatial prediction and public health applications" (Wits).
+
+**Second Prize:** Molly Ryan and Sian Wood, "A calibration conundrum: our critical analysis of history matching and emulation with hmer" (UCT).
+
+### Oral presentations at SASA 2025
+
+**First Prize:** Tshemollo Bokamoso Rapolai, "Modelling cryptocurrency markets using the Laplace scale mixture distributions" (UCT).
+
+**Second Prize:** Marius Alberts, "Applying goal programming to optimise cricket team selection for the Indian Premier League" (NWU).
+
+**Third Prize:** Tyriq Emmanuel Pillay, "Performance of static and dynamic occupancy models" (UCT).

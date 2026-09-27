@@ -5,12 +5,14 @@ project:
 website:
   title: "South African Statistical Association"
   site-url: https://www.sastat.org
-  favicon: images/logo.png
+  favicon: images/sasa_logo.png
   page-navigation: false
+  search: true
   navbar:
-    logo: images/logo.png
+    logo: images/sasa_logo.png
     logo-alt: "SASA logo"
     title: false
+    collapse-below: lg
     left:
       - href: index.qmd
         text: Home
@@ -22,16 +24,114 @@ website:
             text: Our Mission
           - href: about/the-executive-committee.qmd
             text: The Executive Committee
-      - href: apply-for-sasa-membership.qmd
-        text: Membership
+          - href: about/past-presidents.qmd
+            text: Past Presidents
+          - href: about/honorary-members-and-fellows.qmd
+            text: Honorary Members and Fellows
+          - href: contact-us.qmd
+            text: Contact Us
+      - text: Membership
+        menu:
+          - href: apply-for-sasa-membership.qmd
+            text: Apply for SASA Membership
+          - href: member-login.qmd
+            text: Member Login
+          - href: update-profile.qmd
+            text: Update Your Profile
+          - href: partner.qmd
+            text: Partner and Advertise with SASA
+          - href: sacnasp.qmd
+            text: Professional Registration with SACNASP
+      - text: Groups
+        menu:
+          - href: groups/index.qmd
+            text: Special Interest Groups
+          - text: "---"
+          - href: groups/mdag.qmd
+            text: Multivariate Data Analysis Group
+          - href: groups/bayes.qmd
+            text: Bayes Group
+          - href: groups/datascience.qmd
+            text: Data Science Group
+          - href: groups/financial-data-science.qmd
+            text: Financial Data Science Group
+          - href: groups/evt.qmd
+            text: Extreme Value Theory Group
+          - href: groups/spatialstats.qmd
+            text: Spatial Statistics Group
+          - href: groups/forecasting.qmd
+            text: Forecasting Interest Group
+          - href: groups/statseducation.qmd
+            text: Statistics Education Group
+          - href: groups/survey-statistics.qmd
+            text: Survey Statistics Group
+          - href: groups/statsnetsa.qmd
+            text: StatSNetSA
+      - text: Education
+        menu:
+          - href: education/educom.qmd
+            text: The Education Committee
+          - href: education/bursaries-and-scholarships.qmd
+            text: Bursaries and Scholarships
+          - href: education/student-competitions.qmd
+            text: Student Competitions
+          - href: education/funding.qmd
+            text: Funding Initiatives
+          - text: "---"
+          - href: awards/index.qmd
+            text: Awards
+          - href: awards/sichel-medal.qmd
+            text: Sichel Medal
+          - href: awards/sas-thought-leader-award.qmd
+            text: SAS Thought Leader Award
+          - href: awards/postgraduate-awards.qmd
+            text: Postgraduate Awards
+      - text: Events
+        menu:
+          - href: events/current-and-upcoming.qmd
+            text: Current and Upcoming Events
+          - href: events/conferences.qmd
+            text: SASA Conferences
+          - href: events/past-events-videos.qmd
+            text: Past Event Videos
       - href: journal.qmd
         text: Journal
-      - href: articles.qmd
-        text: News and Articles
+      - text: News
+        menu:
+          - href: articles/news.qmd
+            text: Latest News
+          - href: articles/columns.qmd
+            text: Columns and Articles
+          - href: articles/profiles.qmd
+            text: Statistician Profiles
+          - href: articles/archive.qmd
+            text: Archive
+      - text: Community
+        menu:
+          - href: community/universities.qmd
+            text: Universities
+          - href: community/universities-of-technology.qmd
+            text: Universities of Technology
+          - href: community/research-institutions.qmd
+            text: Research Institutions
+          - href: community/professional-bodies.qmd
+            text: Professional Bodies
+      - href: jobs.qmd
+        text: Jobs
       - href: resources.qmd
         text: Resources
+    right:
+      - href: apply-for-sasa-membership.qmd
+        text: Join SASA
   page-footer:
-    left: "South African Statistical Association"
+    left: |
+      &copy; 2021 South African Statistical Association<br>
+      By viewing and/or interacting with this website you acknowledge that you have read and understand the [POPI disclaimer, terms of use and privacy policy](/privacy-policy.html).
+    center:
+      - href: contact-us.qmd
+        text: Contact Us
+      - href: privacy-policy.qmd
+        text: Privacy Policy
     right:
       - text: "info@sastat.org"
         href: mailto:info@sastat.org
@@ -39,9 +139,12 @@ website:
         href: https://www.facebook.com/SASAstatistics/
       - icon: linkedin
         href: https://www.linkedin.com/company/south-african-statistical-association-sasa/
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCeJv9P-RAin15na0Tnto2AQ
 
 format:
   html:
     theme: [cosmo, styles.scss]
     toc: false
     anchor-sections: false
+    link-external-newwindow: true

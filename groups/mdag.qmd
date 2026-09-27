@@ -1,0 +1,53 @@
+---
+title: "Multivariate Data Analysis Group"
+---
+
+The mission of the Multivariate Data Analysis Group (MDAG) is to create a network and support system for those interested in multivariate data analysis and classification in a broad sense; exploring a wide range of possible applications.
+
+Membership is free to all SASA members. To join MDAG, contact the MDAG secretary Dr Johané Nienkemper-Swanepoel at [mdag@sastat.org](mailto:mdag@sastat.org).
+
+## MDAG Committee
+
+::: {.people}
+::: {}
+![](../images/people/sugnet-lubbe.png)
+
+### Prof Sugnet Lubbe
+<p class="role">Chair</p>
+[mdag@sastat.org](mailto:mdag@sastat.org)
+:::
+
+::: {}
+![](../images/people/johane-nienkemper-swanepoel.png)
+
+### Dr Johané Nienkemper-Swanepoel
+<p class="role">Secretary</p>
+[mdag@sastat.org](mailto:mdag@sastat.org)
+:::
+
+::: {}
+![](../images/people/placeholder.svg)
+
+### Dr Raeesa Ganey
+<p class="role">Committee Member</p>
+:::
+
+::: {}
+![](../images/people/renette-blignaut-mdag.jpg)
+
+### Prof Renette Blignaut
+<p class="role">Committee Member</p>
+:::
+:::
+
+## MDAG documents
+
+### MDAG Constitution 2020
+
+The constitution document provides details and information on how MDAG is run.
+
+[Download the MDAG Constitution 2020 (PDF)](files/MDAG-Constitution-2020.pdf){.btn-sasa}
+
+## Social media
+
+Please follow MDAG on Facebook: [https://www.facebook.com/mdagroup.sa](https://www.facebook.com/mdagroup.sa)

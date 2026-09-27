@@ -1,0 +1,46 @@
+---
+title: "Current and Upcoming Events"
+---
+
+## Upcoming events
+
+::: {.events-list}
+::: {}
+### SASA 2026 Conference
+<p class="event-meta">23 – 27 November 2026 · Hosted by the University of the Witwatersrand · Birchwood Hotel and OR Tambo Conference Centre, Johannesburg</p>
+
+The 67th annual conference of the South African Statistical Association. The programme opens with two days of workshops facilitated by invited speakers from national and international institutions, followed by the three-day conference.
+
+[Conference website](https://sasaconference2026.org/){.btn-sasa}
+:::
+:::
+
+## Events calendar
+
+SASA events, seminars and webinars are published on the SASA Glue Up events page. Members receive invitations by email.
+
+[SASA events on Glue Up](https://app.glueup.com/org/sastat/events/){.btn-sasa}
+
+## Past events
+
+::: {.events-list}
+::: {}
+### SASA 2025 Conference
+<p class="event-meta">24 – 28 November 2025 · North-West University · Riverside Sun Resort Hotel, Vanderbijlpark</p>
+See [SASA Conferences](conferences.qmd#sasa-2025).
+:::
+
+::: {}
+### SASA 2024 Conference
+<p class="event-meta">18 – 22 November 2024 · University of the Western Cape · Stellenbosch</p>
+See [SASA Conferences](conferences.qmd#sasa-2024).
+:::
+
+::: {}
+### SASA Roundtable: Moving from University to Industry
+<p class="event-meta">September 2021 · Online</p>
+Watch the recordings on the [Past Event Videos](past-events-videos.qmd) page.
+:::
+:::
+
+Older announcements are kept in the [news archive](../articles/archive.qmd).

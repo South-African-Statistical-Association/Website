@@ -1,0 +1,33 @@
+---
+title: "Universities of Technology"
+---
+
+## Cape Peninsula University of Technology
+
+**Head of Department:** Dr Thomas Farrar, [FarrarT@cput.ac.za](mailto:FarrarT@cput.ac.za)
+
+**Postal address:** Dept of Interdisciplinary Mathematics and Sciences Studies, Applied Sciences, Cape Peninsula University of Technology, PO Box 652, Cape Town 8000
+
+[Website](http://www.cput.ac.za/academic/faculties/appliedsciences/departments/mathematics/)
+
+## Central University of Technology
+
+**Head of Department:** Dr Michelle Erasmus, [mellis@cut.ac.za](mailto:mellis@cut.ac.za)
+
+**Postal address:** Central University of Technology, Free State, Private Bag X20539, Bloemfontein 9300
+
+[Website](http://www.cut.ac.za/departments/department-of-mathematical-and-physical-sciences/)
+
+## Durban University of Technology
+
+**Head of Department:** Dr Anisha Ananth, [anishas@dut.ac.za](mailto:anishas@dut.ac.za)
+
+[Website](https://www.dut.ac.za/)
+
+## Tshwane University of Technology
+
+**Head of Department:** Prof Seithuti Moshokoa, [MoshokoaSP@tut.ac.za](mailto:MoshokoaSP@tut.ac.za)
+
+**Postal address:** Department of Mathematics and Statistics, Tshwane University of Technology, Private Bag X680, Pretoria 0001
+
+[Website](http://www.tut.ac.za/Students/facultiesdepartments/science/departments/mathematics/Pages/default.aspx)

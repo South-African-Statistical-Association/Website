@@ -1,0 +1,27 @@
+---
+title: "A brief history of Bayesian statistics at the University of the Free State"
+subtitle: "Department of Mathematical Statistics and Actuarial Science"
+author: "Andréhette Verster"
+date: 2021-07-01
+date-format: "D MMMM YYYY"
+description: "How three pioneers, Professors Danie de Waal, Abrie van der Merwe and Piet Groenewald, made Bayesian statistics synonymous with the University of the Free State."
+image: ../../images/articles/bayes-ufs-2021.jpg
+---
+
+Bayesian Statistics has been (and still is) synonymous with the University of the Free State. Over the years Bayesian Statistics became like favourite pieces of furniture in our department, the kind that just fits comfortably into any space.
+
+Where did it all start? I would say it all started with three extraordinary academic pioneers that were intrigued, curious and open to ideas that involved a different way of thinking (often frowned upon in those early days). These three pioneers are Professors Danie de Waal, Abrie van der Merwe and Piet Groenewald.
+
+Due to his interest in the then "new" Bayesian ideas, Prof de Waal decided to present a postgraduate course in Bayesian Statistics in 1977. This course was based on a book by De Groot (1969) about Decision Theory. Prof de Waal's knowledge of distribution theory, especially multivariate, provided him a strong basis to build on. He was so interested in these Bayesian concepts that he presented his research at a conference in 1975 in Edmonton, Canada. During this conference, Seymour Geisser (the well-known Bayesian that started the idea of sample re-use) from the University of Minnesota was impressed with his work and visited the University of the Free State in 1978. This was the beginning of various famous Bayesians that visited our department, such as Jim Zidek in 1980 and 1982, Jim Berger in 1985 and 1995 and Arnold Zellner in 1998 (Zellner then also presented a postgraduate course for 3 months on Bayesian Statistics). More recent notable visitors include Sanjib Basu in 2002, Edward George in 2008, Trivellore Raghunathan in 2013, and Donald Rubin in 2015.
+
+In 1978, Prof van der Merwe went on sabbatical leave for 6 months where he worked with Jim Zidek at the University of British Columbia in Vancouver. The study was mostly focused on empirical Bayesian estimators. Prof Abrie, as he is widely known, published in many areas of Bayesian statistics, and was particularly known for his knowledge of hierarchical models (on which he taught a third-year course in the early 2000s).
+
+The postgraduate Bayesian course was taken over in 1980 by Prof Groenewald who presented the course for many years and made it his own research area of expertise. His ability to draw up sampling strategies for complex posteriors is particularly impressive. Later, around 2002, Dr Isabel Garish started to present an undergraduate Bayes course, which is still taught in 2021. A postgraduate course is also still presented annually, but the nature of the course changed dramatically when it was taken over by Dr Sean van der Merwe in 2015.
+
+The Valencia International Meetings on Bayesian Statistics were highlights in their research careers. Some of the conferences that they attended were in Altea (1987), in Peñíscola (1991), in Alicante (1994) and in Alcossebre (1998). The 1991 conference in Peñíscola (attended by Professors Danie de Waal, Piet Groenewald, Daan Nel and Abrie van der Merwe as well as all their spouses) was known for the introduction of the Gibbs sampling methods.
+
+As an interesting side note: although the Valencia conferences were held every 4th year, there was only a 3-year gap between the 1991 and 1994 meetings. This was due to José-Miguel Bernardo (the founder and organizer of the Valencia meetings) who had to assist in Spain's governmental elections in 1995.
+
+The International Society for Bayesian Analysis (ISBA) conferences only started in 1993, with the 4th ISBA meeting held in Cape Town in 1996. Eventually, the two (Valencia and ISBA) joined in 2010.
+
+As a student, I had the privilege to take both undergraduate and postgraduate Bayes courses. I later did my PhD under the supervision of Prof De Waal, where various Bayesian techniques were considered. In a way, I feel that I was "born" into this "religion"; I was raised by the best! So how can I not love, respect and cherish the field of Bayesian Statistics? I can only hope to play a part in paying the legendary forward.

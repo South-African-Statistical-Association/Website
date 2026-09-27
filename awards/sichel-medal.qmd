@@ -1,0 +1,56 @@
+---
+title: "Sichel Medal"
+---
+
+## About the Sichel Medal
+
+The Herbert Sichel Medal is awarded annually to the member (or members) of the Association who has (have) published the best statistical paper during the previous year.
+
+The following rules will govern the award in 2026:
+
+- Papers on theoretical or applied statistics are eligible.
+- Single- and co-authored papers in which at least one of the principal authors is a member of SASA who is a South African citizen or a South African resident with their primary place of residence and work in South Africa will be considered.
+- The papers must have been published (either online or in hard copy) in 2025.
+- Papers appearing in refereed journals, in fully refereed conference proceedings or as refereed chapters in books are eligible (books, theses or dissertations are not).
+- Nominations for the award may be made by a member of SASA (who is not an author) or submissions may be made by the author(s). An individual may only submit one paper for the award.
+- In evaluating the papers for the medal, the panel will use the following set of criteria:
+  - The impact of the paper in its specific field
+  - How innovative are the ideas or techniques used in the paper
+  - The relevance of the problem being addressed
+  - How well-written is the paper
+- The decision by SASA on the award of the medal will be final. The membership of the panel is still to be finalised. Any member of the panel who is themselves a nominee will be replaced by someone not nominated for the medal.
+- All nominations must be made via email to [sichel.medal@sastat.org](mailto:sichel.medal@sastat.org) by 31 July 2026.
+
+## Sichel Medal winners
+
+| Year | Winners | Paper |
+|------|---------|-------|
+| 2025 | S.B. Skhosana, S.M. Millard & F.H.J. Kanfer | [A modified EM-type algorithm to estimate semi-parametric mixtures of non-parametric regressions](https://doi.org/10.1007/s11222-024-10435-3), Stat Comput 34, 125 (2024) |
+| 2024 | L Steyn, T de Wet, B de Baets & S Luca | [A Nearest Neighbor Open-Set Classifier based on Excesses of Distance Ratios](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2096621), Journal of Computational and Graphical Statistics, 32(1), 2023 |
+| 2023 | S Lee, SG Meintanis & C Pretorius | [Monitoring procedures for strict stationarity based on the multivariate characteristic function](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21001706), Journal of Multivariate Analysis, 189(C) |
+| 2022 | I MacDonald & E Pienaar | [Fitting a reversible Markov chain by maximum likelihood: Converting an awkwardly constrained optimization problem to an unconstrained one](https://www.sciencedirect.com/science/article/pii/S0378437120306178), Physica A, 561 |
+| 2021 | S Buitendag, J Beirlant & T de Wet | [Confidence intervals for extreme Pareto-type quantiles](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12396), Scandinavian Journal of Statistics, 47(1) |
+| 2020 | DA Burger, R Schall, R Jacobs & D-G Chen | [A generalized Bayesian nonlinear mixed-effects regression model for zero-inflated longitudinal count data in tuberculosis trials](https://onlinelibrary.wiley.com/doi/10.1002/pst.1933), Pharmaceutical Statistics, 18(4) |
+| 2019 | C Pretorius & JWH Swanepoel | [On the asymptotic theory of new bootstrap confidence bounds](https://imstat.org/publications/aos/aos_46_1/aos_46_1.pdf#page=46), The Annals of Statistics, 46(1) |
+| 2018 | A Smit, A Kijko & A Stein | [Probabilistic tsunami hazard assessment from incomplete and uncertain historical catalogues with application to tsunamigenic regions in the Pacific Ocean](https://link.springer.com/article/10.1007/s00024-017-1564-4), Pure and Applied Geophysics, 174(8) |
+| 2017 | L Haines | |
+| 2016 | PJ de Jongh, T de Wet, H Raubenheimer & H Venter | |
+| 2015 | MS Finkelstein & J Vaupel | |
+| 2014 | MM Varughese & EAD Pienaar | |
+| 2013 | F Lombard & CJ Potgieter | |
+| 2012 | I MacDonald, W Zucchini & R Langrock | |
+| 2011 | AJ van der Merwe & D Chikobvu | |
+| 2010 | M Varughese | |
+| 2009 | LK Debusho & LM Haines | |
+| 2008 | IL MacDonald & W Zucchini | |
+| 2007 | MS Finkelstein & V Esaulova | |
+| 2006 | F Lombard | |
+| 2005 | PJ de Jongh & JH Venter | |
+| 2004 | MS Finkelstein | |
+| 2003 | JWH Swanepoel & FC van Graan | |
+| 2002 | JWH Swanepoel | |
+| 2000 | CF de Beer & JWH Swanepoel | |
+| 1999 | JS Maritz & CJ Lombard | |
+| 1998 | F Lombard | |
+| 1997 | JH Venter & SJ Steel | |
+: {.committee}

@@ -1,0 +1,47 @@
+---
+title: "Statistics Education"
+---
+
+The Special Interest Group (SIG) on Statistics Education is dedicated to SASA members who are actively engaged in or interested in the field of statistics education. This includes, but is not limited to, teaching methodologies, curriculum development, educational research in statistics, innovative pedagogical practices, and technology (artificial intelligence etc.) integration in statistics education.
+
+## Aims
+
+- To foster a community of statisticians and educators who are dedicated to improving the quality and effectiveness of statistics education at all levels.
+- To facilitate the exchange of ideas, resources, and best practices among educators and researchers in the field of statistics.
+- To encourage and support research in statistics education, focusing on enhancing student learning and understanding of statistical concepts.
+
+## Activities
+
+- Organising webinars and online workshops focusing on various aspects of statistics education, such as innovative teaching techniques, assessment methods, and integration of technology in teaching statistics.
+- Hosting discussions and forums for SASA members to share experiences, challenges, and successes in statistics education.
+- Collaborating with international statistics education communities to bring global perspectives and expertise to our members.
+
+## Membership
+
+The group is open to all SASA members who are involved in or have an interest in statistics education. We welcome educators, researchers, and practitioners at all levels of education, from primary to tertiary and continuing education.
+
+## Join us
+
+For those interested in joining the SASA Special Interest Group on Statistics Education, please send an email expressing your interest to [statseducation@sastat.org](mailto:statseducation@sastat.org). We are excited to build a vibrant community that contributes significantly to the advancement of statistics education. We look forward to your participation and contribution to this vital field within the statistical community.
+
+## Statistics Education Group Committee
+
+::: {.people}
+::: {}
+![](../images/people/michael-von-maltitz-se.png)
+
+### Prof Michael von Maltitz
+<p class="role">Co-Chair</p>
+University of the Free State
+:::
+
+::: {}
+![](../images/people/placeholder.svg)
+
+### Dr Farai Mlambo
+<p class="role">Co-Chair</p>
+University of the Witwatersrand
+:::
+:::
+
+Contact us: [statseducation@sastat.org](mailto:statseducation@sastat.org)

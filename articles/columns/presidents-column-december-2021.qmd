@@ -1,0 +1,22 @@
+---
+title: "Presidential Column, December 2021"
+author: "Warren Brettenny"
+date: 2021-12-10
+date-format: "D MMMM YYYY"
+description: "Reflecting on 2021: the SASA 2021 conference at Stellenbosch, SASJ moving to open access, a new online seminar platform, digitalised bursaries, and new interest groups."
+image: ../../images/articles/presidents-column-dec-2021.jpg
+---
+
+As the year winds down, I think it pertinent to reflect on what we, as SASA, have achieved in the vastly changed world in which we find ourselves.
+
+I start by highlighting some of the key achievements of SASA in 2021. First and foremost, after a rocky start to the year and all the uncertainties regarding the pandemic, SASA was able to host the 2021 conference at Stellenbosch University. This was no small feat. Hosting a conference at any time is a challenge, but the work that the LOC did was incredible and what was achieved, in such a tumultuous time, is commended and appreciated.
+
+We also successfully moved SASJ to an open-access journal system, allowing our research publications to be accessible to the broader population. What we have learnt during this time is that knowledge sharing is key to societal progression and this is a step towards that. In addition, we have piloted a new online seminar platform that will be further developed next year. The appetite for knowledge sharing in this way has grown as a result of remote working and learning and SASA has and will continue to provide educational and informative seminars to members through traditional seminars and broadcasted roundtable discussions.
+
+Education opportunities and advancement will be a focus of ours going forward. Recent proposed changes to the constitution will allow us to pursue this even further. We have digitalised our bursary and scholarship application process which provides funding opportunities to undergraduate and Honours students. With our student numbers growing from around 10 to over 300 in 2021, we know that there is a keen interest in statistics in the South African student body. As SASA we need to address this through opportunities such as our bursaries, but also through collaborations with our interest groups and associated societies to bring the best information and knowledge to these students.
+
+This is just the start of a new chapter of SASA. We have 2 new interest groups that have come on board, the spatial statistics and extreme value groups, added to the existing Bayesian, data science, biostatistics, and MDAG groups. We are therefore well placed to provide research and educational opportunities on all fronts.
+
+Moving into 2022 SASA will continue to build on what has already been achieved and also pursue industry partnerships. We also want to engage more actively with our membership to be sure that we are addressing the key needs of the community.
+
+I would like to thank the entire EC for their work this year, and also all members for your continued support. I wish everyone a blessed festive season and a wonderful new year.

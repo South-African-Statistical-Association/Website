@@ -1,25 +1,62 @@
 ---
-title: "Apply for SASA Membership"
+title: "Become a SASA Member Today!"
 ---
 
-Membership is open to all persons and organisations with an interest in the goals of SASA. The Executive Committee reviews all applications.
+Membership with SASA is open to all individuals and bodies having an interest in the goals of the Association. Applications for membership of the South African Statistical Association are considered by the Executive Committee of the Association.
 
-Membership runs from **1 April to 31 March** each year.
+The Association has four membership categories, which last from **1 April to 31 March** each year:
 
-## Membership types
+- **Ordinary Membership:** Any individual having an interest in the mission and goals of the Association.
+- **Senior Membership:** Any member who has reached the age of 65 and who was a member for the 10 preceding years before turning 65, may apply for senior membership of the Association.
+- **Student Membership:** Any registered student having an interest in the mission and goals of the Association. Your name, in this case, will not appear on our website as a member of SASA.
+- **Affiliated Membership:** Open to companies, societies and other organisations having an interest in the aims of the Association.
 
-Ordinary membership
-: For any person with an interest in the mission and goals of SASA. Ordinary members can vote at the Annual General Meeting. They get the Newsletter and the SA Statist J. They pay the member rate at the conference.
+The membership fee for Ordinary, Senior, and Affiliate membership includes a subscription to the SASA newsletter (3 per annum) and the SASA Journal (2 per annum). An Affiliated membership also means that two delegates can attend the conference at the reduced fee for the conference of that year (same fee as an ordinary member). The membership fee for Student membership includes a subscription to the SASA newsletter only (3 per annum). Student membership allows for registration as a student delegate at the conference.
 
-Senior membership
-: For members who are 65 or older and were members for the 10 years before they turned 65. Senior members get the same benefits as ordinary members.
+Ordinary, Senior, and Affiliate memberships are automatically renewed by payment of membership fees before 31 March each year. For Student membership, please note that a member only qualifies for membership if they are a full-time student working non-permanently 12 or less hours a week, which is confirmed by a letter from the relevant HOD. The student must be registered for a degree in statistics or a closely related field as recognised by the EC. This is valid up to PhD level, and needs to be renewed every year.
 
-Student membership
-: For registered students at a South African tertiary institution. Student members get the Newsletter. They do not get the SA Statist J and cannot vote. Student names do not show on the website.
+Please email [membership@sastat.org](mailto:membership@sastat.org) for any queries relating to membership.
 
-Affiliated membership
-: For companies, societies and other organisations with an interest in the aims of SASA.
+::: {.tiers}
+::: {}
+### Ordinary Membership
+<p class="price">R500</p>
+<p class="per">per annum, including VAT</p>
+Any individual who has an interest in the mission and goals of the Association is eligible for membership of the Association. Each Ordinary member can attend and vote at the Annual General Meeting, receives access to the Newsletter and SA Statist J, and may attend the conference at full member rates.
 
-## Questions
+[Apply](https://app.glueup.com/membership/6046/apply/){.btn-sasa}
+:::
 
-Send an email to [membership@sastat.org](mailto:membership@sastat.org).
+::: {}
+### Senior Membership
+<p class="price">R160</p>
+<p class="per">per annum, including VAT</p>
+Senior membership will be given to an individual who has reached official retirement age and who has been a member of the Association for at least ten preceding years. Senior members will enjoy the same privileges as ordinary members.
+
+[Apply](https://app.glueup.com/membership/6089/apply/){.btn-sasa}
+:::
+
+::: {}
+### Student Membership
+<p class="price">FREE</p>
+<p class="per">renewed every year</p>
+Any registered student at any South African tertiary institution is eligible for student membership of SASA. Student members receive access to the Newsletter but not the SA Statist J, and do not have voting rights.
+
+\*A member only qualifies for free student membership if she/he is a full-time student working non-permanently for 12 or less hours a week, which is confirmed by a letter from the relevant Head of Department. The student must be registered for a degree in statistics or a closely related field as recognised by the Executive Committee.
+
+[Apply](https://app.glueup.com/membership/6051/apply/){.btn-sasa}
+:::
+
+::: {}
+### Affiliated Membership
+<p class="price">R1000</p>
+<p class="per">per annum, including VAT</p>
+Affiliated membership can be obtained by companies, societies and similar organisations. Each Affiliated member can nominate a representative to attend the Annual General Meeting (AGM). An Affiliated member has one vote at the AGM, receives access to the Newsletter and SA Statist J, and may send two delegates to the conference at full member rates.
+
+[Apply](https://app.glueup.com/membership/6088/apply/){.btn-sasa}
+:::
+:::
+
+::: {.notice}
+All membership applications are processed through our CRM platform, [Glue Up](https://app.glueup.com/org/sastat/). You will be directed to their site to complete your membership application. Existing members can [log in](member-login.qmd) or [update their profile](update-profile.qmd).
+:::

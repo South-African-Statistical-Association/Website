@@ -1,0 +1,12 @@
+---
+title: "Latest News"
+listing:
+  contents: news
+  sort: "date desc"
+  type: default
+  fields: [image, date, title, author, description]
+  date-format: "MMMM YYYY"
+  image-height: 160px
+---
+
+News items from SASA and the South African statistics community. Older announcements are in the [archive](archive.qmd).

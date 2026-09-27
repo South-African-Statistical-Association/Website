@@ -1,0 +1,25 @@
+---
+title: "Community"
+---
+
+::: {.cards}
+::: {}
+### [Universities](universities.qmd)
+Statistics departments at South African universities and their heads of department.
+:::
+
+::: {}
+### [Universities of Technology](universities-of-technology.qmd)
+Departments offering statistics at universities of technology.
+:::
+
+::: {}
+### [Research Institutions](research-institutions.qmd)
+Statistics contacts at the CSIR, HSRC and MRC.
+:::
+
+::: {}
+### [Professional Bodies](professional-bodies.qmd)
+Professional registration and CPD points through SACNASP.
+:::
+:::

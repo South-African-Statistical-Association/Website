@@ -1,0 +1,52 @@
+---
+title: "Student Competitions"
+---
+
+## SASA Postgraduate Paper Competition
+
+**The closing date for entries is 31 July 2026.**
+
+We at the South African Statistical Association (SASA) Education Committee invite all students enrolled for Masters or PhDs in Statistics at South African tertiary institutions to participate in the Postgraduate Paper Competition. There is a prize for the best published paper from a Masters or PhD, as well as a prize for the best unreviewed paper.
+
+The student submitting the paper should be the main contributor/author of the work. This will be confirmed with the degree supervisor (or institution contact person). A published paper is one that was published in 2025/2026 from (or for) the student's Masters/PhD, while an unpublished paper is one that has not yet received any reviewer feedback from any peer-reviewed publication. Papers for either option may not have been submitted to the SASA Postgraduate Paper Competition before.
+
+An unpublished paper, with appendices, should be no more than 15 pages in length. Data sets, coding, and supplementary materials can be uploaded to a free data repository such as [figshare](https://figshare.com/), [Mendeley Data](https://data.mendeley.com/), [Open Science Framework](https://osf.io/) or similar, and can be referenced in the paper.
+
+Closing date for entries is 31 July 2026. Abstracts should be submitted by 30 June 2026.
+
+**Important note:** For the paper submissions to be considered, the student author(s) must be a registered SASA member in 2026. SASA membership is free to all full-time students and registration can be done via the [membership page](../apply-for-sasa-membership.qmd).
+
+If you would like to enter a paper, please proceed as follows:
+
+1. Complete the [competition form](https://docs.google.com/forms/d/e/1FAIpQLScYqVpxX46z44YnepofI64Yoti3P1Q25ymNFnR1gzYBg342dA/viewform?usp=send_form) and upload the required abstract by 30 June 2026. You will be given the choice on this form to upload an abstract OR the full paper.
+2. Remove any reference to the student/author(s), the supervisor or the University from each paper and upload the electronic version of each paper by 31 July 2026.
+3. Upload proof of SASA membership for each entrant.
+
+A number of judges will be selected to rank the projects. The ranked results will be analysed and the winners announced before the next annual SASA conference. Winners will be asked to be photographed.
+
+If you have any questions please do not hesitate to contact Michael von Maltitz ([vmaltitzmj@ufs.ac.za](mailto:vmaltitzmj@ufs.ac.za)).
+
+We are looking forward to receiving your papers!
+
+## Honours Project Competition 2025/2026
+
+**The closing date for entries is Friday, 10 April 2026.**
+
+The SASA Education Committee invites all South African Universities to submit their top two honours projects in Statistics or postgraduate diploma projects in Statistics from 2025 for the 2025/2026 Honours Project Competition (sponsored by SAS). The head of the Department/School at each University may submit up to two projects and group work is allowed. The closing date for entries is Friday, 10 April 2026.
+
+**Important note:**
+
+- SASA membership (either student or full) is a prerequisite for all entrants for this competition.
+- SASA membership is free to all full-time students and registration can be done via the [membership page](../apply-for-sasa-membership.qmd).
+
+If you would like to enter some projects, please proceed by visiting the link provided below. You will be directed to a Google form that you must complete and upload the required documents (i.e. project document and proof of SASA membership) by 10 April 2026.
+
+Project entry link: [https://forms.gle/dGGWDoajc2fXo73fA](https://forms.gle/dGGWDoajc2fXo73fA)
+
+[Enter your project here](https://forms.gle/XbmPzNPukE4NJH2J8){.btn-sasa}
+
+SASA Education Committee<br>
+Contact person: Nombuso Zondo<br>
+E-mail: [nombuso.zondo@nwu.ac.za](mailto:nombuso.zondo@nwu.ac.za)
+
+Winners of previous competitions are listed under [Postgraduate Awards](../awards/postgraduate-awards.qmd).

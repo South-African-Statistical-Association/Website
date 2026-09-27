@@ -1,0 +1,25 @@
+---
+title: "News and Articles"
+---
+
+::: {.cards}
+::: {}
+### [Latest News](news.qmd)
+News from SASA and the South African statistics community.
+:::
+
+::: {}
+### [Columns and Articles](columns.qmd)
+The President's Column from the SASA Newsletter, presidential addresses and feature articles.
+:::
+
+::: {}
+### [Statistician Profiles](profiles.qmd)
+Young Statistician profiles and profiles of award winners and office bearers.
+:::
+
+::: {}
+### [Archive](archive.qmd)
+Older announcements and event notices.
+:::
+:::

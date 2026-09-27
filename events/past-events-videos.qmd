@@ -1,0 +1,33 @@
+---
+title: "Past Event Videos"
+---
+
+More recordings are available on the [SASA YouTube channel](https://www.youtube.com/channel/UCeJv9P-RAin15na0Tnto2AQ).
+
+## SASA Roundtable: Moving from University to Industry
+
+September 2021
+
+### The Process of Finding a Job
+
+Join our panel as they discuss the process of finding a job in the statistics, analytics and data science fields. Our panel includes academics, leaders of industry, researchers and industry newbies. They share their experiences of both searching for a job and also recruiting new analysts.
+
+```{=html}
+<iframe class="video-frame" src="https://www.youtube.com/embed/tt-jrv2exHE" title="The Process of Finding a Job" allowfullscreen></iframe>
+```
+
+### The First Few Months on the Job
+
+Our panel discusses their experiences as they entered the workforce as a new statistician, analyst or data scientist and give valuable insight into what can be expected and also some tips for those starting their careers. Our panel includes academics, leaders of industry, researchers and industry newbies.
+
+```{=html}
+<iframe class="video-frame" src="https://www.youtube.com/embed/pV0G1ns4KpI" title="The First Few Months on the Job" allowfullscreen></iframe>
+```
+
+### What I Wish I Knew When I Was Studying
+
+Our panel discusses what they would say to their university selves after gaining experience in industry. These messages are insightful and relevant to all university students studying statistics and analytics. Our panel includes academics, leaders of industry, researchers and industry newbies.
+
+```{=html}
+<iframe class="video-frame" src="https://www.youtube.com/embed/V0fCtBgf6Hs" title="What I Wish I Knew When I Was Studying" allowfullscreen></iframe>
+```

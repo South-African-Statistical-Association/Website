@@ -1,0 +1,87 @@
+---
+title: "Job Listings and Opportunities"
+---
+
+Organisations that are [affiliated members](apply-for-sasa-membership.qmd) of SASA can advertise positions for statisticians and data scientists here. See [Partner and Advertise with SASA](partner.qmd) or email [sponsorships@sastat.org](mailto:sponsorships@sastat.org).
+
+## Opportunities at DUT
+
+**Closing date: 18 September 2026**
+
+With more than 34400 students and approximately 1700 members of staff, the Durban University of Technology (DUT) is a leading university of technology proudly located in the beautiful cities of Durban and Pietermaritzburg, along the warm east coast of South Africa. Founded in April 2002 through the historic merger of the former ML Sultan Technikon and Technikon Natal, DUT has evolved into a modern, metropolitan, multi-campus university with roots tracing back to 1907.
+
+Today, DUT is recognised nationally and internationally for its excellence in teaching and learning, research, innovation, entrepreneurship, and engagement. A proud member of the International Association of Universities, DUT continues to expand its influence across South Africa and the world. In the 2025 Webometrics Rankings, DUT was ranked among the Top 6% of all universities and colleges worldwide, reflecting its academic excellence, research impact, and strong global visibility.
+
+DUT's Philosophy of Education, "Our creativity and innovation shape adaptive graduates who transform society," reflects the institution's deep commitment to meaningful impact for societal transformation. Guided by its inspirational and aspirational ENVISION2030 strategy, which is rooted in DUT's DNA of being 'people-centred and engaged' and 'innovative and entrepreneurial' and underpinned by its bespoke Living Values Framework, DUT focuses on 'contributing to the improvement of lives and livelihoods'.
+
+The University comprises six diverse Faculties:
+
+- Accounting and Informatics
+- Applied Science
+- Arts & Design
+- Engineering and the Built Environment
+- Health Sciences
+- Management Sciences
+
+DUT also includes a Business School and the award-winning Institute for Water and Wastewater Technology (IWWT), amongst other research centres and institutes, reinforcing its role as a hub for knowledge, innovation, and societal impact. Over the years, the University has substantially grown its research output, dominating the UoT sector. This is evidenced by the steady increase of NRF-rated researchers and the notable, unprecedented award of seven NRF SARCHi Chairs in 2025. This impetus helps us to remain deeply engaged with our communities globally, thereby transforming societies and economies.
+
+At DUT, we believe in nurturing talent and empowering people to make a real difference. If you are passionate about contributing to education, research, innovation, entrepreneurship, and engagement, DUT offers the ideal environment - Creative. Distinctive. Impactful.
+
+### Full Professor
+
+- A PhD in Applied Statistics or Mathematical Statistics.
+- A minimum of ten (10) years of consistent, extensive, and excellent performance in teaching and learning at undergraduate and postgraduate levels.
+- Evidence of successful postgraduate supervision (Master's and Doctoral).
+- Achievement of international recognition through research outputs within the last ten (10) years, emphasizing recent research outputs.
+- Significant contribution to community engagement.
+
+### Associate Professor
+
+- A PhD in Applied Statistics or Mathematical Statistics.
+- A minimum of seven (7) years of consistent, extensive, and excellent performance in teaching and learning at undergraduate and postgraduate levels.
+- Evidence of successful postgraduate supervision.
+- Achievement of national and/or international recognition through research outputs within the last seven (7) years.
+- Significant contribution to community engagement.
+
+#### Additional recommendations
+
+- The applicant should have a broad knowledge of Applied Statistics and Data Science modules and a good research profile.
+- A broad understanding of current research developments and teaching trends within the discipline.
+- Knowledge and experience of various statistical software packages such as SPSS, SAS, and R.
+- Good communication and presentation skills.
+- Good organizational and planning skills.
+- Ability to work both independently and in a team.
+- Competency in Microsoft Office applications and a strong work ethic.
+- Experience in e-Learning.
+
+#### Summary of duties
+
+- Management of all learning, teaching, assessment, and research matters.
+- Assist in curriculum development.
+- Conduct research and publish in accredited journals.
+
+### Head of Department
+
+Five (5) years fixed contract, renewable for one additional term based on performance.
+
+#### Minimum requirements
+
+- A PhD in the relevant discipline. Relevance in this context will depend on the cluster of academic programmes located in the department of Associate Professors, Professors.
+- Five (5) years' experience in higher education and academic leadership, scholarship leadership, and scholarship.
+
+#### Summary of duties
+
+- Dealing with student queries and complaints regarding the Department/Programme.
+- Managing and supervising staff, which includes the allocation of work, leave management, enhancing staff relations and building a team towards a student-centred department, attending to matters such as study leave, grievances, disputes, training & development, and the appointment of part-time and replacement staff.
+- Programme and project budgeting.
+- Enhancing Faculty projects e.g. Postgraduate Recruitment and supervision, Siyaphumelela, FYSE, Orientation, and Graduation.
+- To provide leadership to the department with respect to teaching & learning, and research.
+
+**Enquiries:** Ms. PF Zulu, [Preciousz2@dut.ac.za](mailto:Preciousz2@dut.ac.za)
+
+#### Instructions to candidates
+
+- Communication will be entered into with the short-listed candidates.
+- Only applications made on our application for employment form would be considered.
+
+Please complete an official employment application form from the DUT website [www.dut.ac.za](https://www.dut.ac.za/) and send a detailed covering letter, CV, and certified qualifications with the exact name of the post you are applying for to [careers@dut.ac.za](mailto:careers@dut.ac.za).

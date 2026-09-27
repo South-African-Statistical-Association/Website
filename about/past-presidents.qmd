@@ -1,0 +1,449 @@
+---
+title: "Past Presidents of SASA"
+---
+
+SASA presidents since the founding of the Association in 1953. The current president is Prof Daniel Maposa (2025 – ). See [The Executive Committee](the-executive-committee.qmd).
+
+::: {.people .people-sm}
+::: {}
+![](../images/presidents/01.jpg)
+
+### 2023-2024
+I Fabris-Rotelli
+:::
+
+::: {}
+![](../images/presidents/02.jpg)
+
+### 2021-2022
+W Brettenny
+:::
+
+::: {}
+![](../images/presidents/03.jpg)
+
+### 2019-2020
+M Lesaoana
+:::
+
+::: {}
+![](../images/presidents/04.jpg)
+
+### 2017-2018
+DW Uys
+:::
+
+::: {}
+![](../images/presidents/05.jpg)
+
+### 2016
+F Little
+:::
+
+::: {}
+![](../images/presidents/06.jpg)
+
+### 2015
+JS Allison
+:::
+
+::: {}
+![](../images/presidents/07.jpg)
+
+### 2014
+PJ Mostert
+:::
+
+::: {}
+![](../images/presidents/08.jpg)
+
+### 2013
+R Coetzer
+:::
+
+::: {}
+![](../images/presidents/09.jpg)
+
+### 2012
+G Sharp
+:::
+
+::: {}
+![](../images/presidents/10.jpg)
+
+### 2011
+P Debba
+:::
+
+::: {}
+![](../images/presidents/11.jpg)
+
+### 2010
+Y Chhana
+:::
+
+::: {}
+![](../images/presidents/12.jpg)
+
+### 2009
+H van Rooy
+:::
+
+::: {}
+![](../images/presidents/13.jpg)
+
+### 2008
+K Zuma
+:::
+
+::: {}
+![](../images/presidents/14.jpg)
+
+### 2007
+I Kleinschmidt
+:::
+
+::: {}
+![](../images/presidents/15.jpg)
+
+### 2006
+FC van Graan
+:::
+
+::: {}
+![](../images/presidents/16.jpg)
+
+### 2005
+SE Radloff
+:::
+
+::: {}
+![](../images/presidents/17.jpg)
+
+### 2004
+ME Nthangeni
+:::
+
+::: {}
+![](../images/presidents/18.jpg)
+
+### 2003
+T de Wet
+:::
+
+::: {}
+![](../images/presidents/19.jpg)
+
+### 2002
+A Lourens
+:::
+
+::: {}
+![](../images/presidents/20.jpg)
+
+### 2001
+JC Tyler
+:::
+
+::: {}
+![](../images/presidents/21.jpg)
+
+### 2000
+PJ de Jongh
+:::
+
+::: {}
+![](../images/presidents/22.jpg)
+
+### 1999
+LM Haines
+:::
+
+::: {}
+![](../images/presidents/23.jpg)
+
+### 1998
+JS Galpin
+:::
+
+::: {}
+![](../images/presidents/24.jpg)
+
+### 1997
+HJ v Hensbergen
+:::
+
+::: {}
+![](../images/presidents/25.jpg)
+
+### 1996
+JI de Wet
+:::
+
+::: {}
+![](../images/presidents/26.jpg)
+
+### 1995
+WJ Conradie
+:::
+
+::: {}
+![](../images/presidents/27.jpg)
+
+### 1994
+CF Smit
+:::
+
+::: {}
+![](../images/presidents/28.jpg)
+
+### 1993
+TT Dunne
+:::
+
+::: {}
+![](../images/presidents/29.jpg)
+
+### 1992
+W Zucchini
+:::
+
+::: {}
+![](../images/presidents/30.jpg)
+
+### 1991
+DG Marx
+:::
+
+::: {}
+![](../images/presidents/31.jpg)
+
+### 1990
+AG de Wet
+:::
+
+::: {}
+![](../images/presidents/32.jpg)
+
+### 1989
+TJ Stewart
+:::
+
+::: {}
+![](../images/presidents/33.jpg)
+
+### 1988
+LP Fatti
+:::
+
+::: {}
+![](../images/presidents/34.jpg)
+
+### 1987
+MJ Greenacre
+:::
+
+::: {}
+![](../images/presidents/35.jpg)
+
+### 1986
+JWH Swanepoel
+:::
+
+::: {}
+![](../images/presidents/36.jpg)
+
+### 1985
+JM Juritz
+:::
+
+::: {}
+![](../images/presidents/37.jpg)
+
+### 1984
+TJ v W Kotze
+:::
+
+::: {}
+![](../images/presidents/38.jpg)
+
+### 1983
+JJJ Roux
+:::
+
+::: {}
+![](../images/presidents/39.jpg)
+
+### 1982
+DG Nel
+:::
+
+::: {}
+![](../images/presidents/40.jpg)
+
+### 1981
+F Lombard
+:::
+
+::: {}
+![](../images/presidents/41.jpg)
+
+### 1980
+SA Fellingham
+:::
+
+::: {}
+![](../images/presidents/42.jpg)
+
+### 1979
+NAS Crowther
+:::
+
+::: {}
+![](../images/presidents/43.jpg)
+
+### 1978
+MW Browne
+:::
+
+::: {}
+![](../images/presidents/44.jpg)
+
+### 1977
+DJ de Waal
+:::
+
+::: {}
+![](../images/presidents/45.jpg)
+
+### 1976
+JC Geertsema
+:::
+
+::: {}
+![](../images/presidents/46.jpg)
+
+### 1975
+FE Steffens
+:::
+
+::: {}
+![](../images/presidents/47.jpg)
+
+### 1974
+HH Lemmer
+:::
+
+::: {}
+![](../images/presidents/48.jpg)
+
+### 1973
+HF Laubscher
+:::
+
+::: {}
+![](../images/presidents/49.jpg)
+
+### 1972
+CG Troskie
+:::
+
+::: {}
+![](../images/presidents/50.jpg)
+
+### 1971
+AH Munro
+:::
+
+::: {}
+![](../images/presidents/51.jpg)
+
+### 1970
+JH Venter
+:::
+
+::: {}
+![](../images/presidents/52.jpg)
+
+### 1969
+CF Crouse
+:::
+
+::: {}
+![](../images/presidents/53.jpg)
+
+### 1967-1968
+H Linhart
+:::
+
+::: {}
+![](../images/presidents/54.jpg)
+
+### 1966
+AA Rayner
+:::
+
+::: {}
+![](../images/presidents/55.jpg)
+
+### 1965
+A Reitsma
+:::
+
+::: {}
+![](../images/presidents/56.jpg)
+
+### 1964
+DJ Stoker
+:::
+
+::: {}
+![](../images/presidents/57.jpg)
+
+### 1963
+DC Goch
+:::
+
+::: {}
+![](../images/presidents/58.jpg)
+
+### 1962
+DEW Schumann
+:::
+
+::: {}
+![](../images/presidents/59.jpg)
+
+### 1961
+AJB Wiid
+:::
+
+::: {}
+![](../images/presidents/60.jpg)
+
+### 1960
+HS Steyn
+:::
+
+::: {}
+![](../images/presidents/61.jpg)
+
+### 1959
+HS Sichel
+:::
+
+::: {}
+![](../images/presidents/62.jpg)
+
+### 1957-1958
+JE Kerrich
+:::
+
+::: {}
+![](../images/presidents/63.jpg)
+
+### 1953-1956
+B de Loor
+:::
+
+:::

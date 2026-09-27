@@ -1,0 +1,20 @@
+---
+title: "Update Your SASA Profile"
+---
+
+If you are already a SASA member and would like to update your details with SASA, including:
+
+- your contact information,
+- sign up for additional Interest Groups or Chapters,
+- your profile picture and permissions,
+
+please follow the instructions below:
+
+1. Navigate and sign in to your [Glue Up Profile](https://app.glueup.com/org/sastat/memberships).
+2. Select **MEMBERSHIPS** on the left hand side of the screen.
+3. Select **VIEW MEMBERSHIP DETAILS**.
+4. Select **UPDATE MY MEMBER PROFILE**.
+5. Update your details and/or change your interest groups.
+6. Click **SAVE**.
+
+[Go to Glue Up](https://app.glueup.com/org/sastat/memberships){.btn-sasa}

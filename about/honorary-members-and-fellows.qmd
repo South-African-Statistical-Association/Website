@@ -1,0 +1,261 @@
+---
+title: "Honorary Members and Fellows of SASA"
+---
+
+## Honorary Members of SASA
+
+An Honorary Member of SASA is a member of the Association who has made an extraordinary contribution to the knowledge of statistics or to the advancement of the Association and who has retired from his/her ordinary position.
+
+::: {.name-columns}
+R D Jongh
+
+CF Crouse
+
+LP Fatti
+
+L Haines
+
+F Lombard
+
+JS Maritz
+
+DJ Stoker
+
+JH Venter
+
+HS Steyn
+
+TJ Stewart
+
+CF Smit
+
+CAB Vorster
+
+D de Waal
+
+J Swanepoel
+
+J Juritz
+
+M Smith
+
+T de Wet
+
+W Zucchini
+
+AJ van der Merwe
+
+NAS Crowther
+
+SE Radloff
+
+F Steffens
+
+MS Finkelstein
+
+JS Galpin
+
+NF Laubscher
+
+HH Lemmer
+
+NJ le Roux
+
+CJ Lombard
+
+DG Nel
+
+JC Geertsema
+
+M Lesaoana
+
+VSS Yadavalli
+:::
+
+## Fellows of SASA
+
+A Fellow of SASA is an enfranchised SASA member who has made outstanding contributions to the advancement of statistical science.
+
+::: {.name-columns}
+S Lubbe
+
+C Pretorius
+
+L Raubenheimer
+
+J Allison
+
+PER Armsen
+
+MW Browne
+
+GPY Clarke
+
+RJL Coetzer
+
+WJ Conradie
+
+CF Crouse
+
+NAS Crowther
+
+AI Dale
+
+PJ de Jongh
+
+B de Loor
+
+DJ de Waal
+
+JI de Wet
+
+T de Wet
+
+TT Dunne
+
+SHC du Toit
+
+LP Fatti
+
+MS Finkelstein
+
+SA Fellingham
+
+JS Galpin
+
+JC Geertsema
+
+DC Goch
+
+HT Gonin
+
+MJ Greenacre
+
+HT Groeneveld
+
+PCN Groenewald
+
+LM Haines
+
+TJ Hastie
+
+GM Havenga
+
+DM Hawkins
+
+JM Juritz
+
+JE Kerrich
+
+AS Koorts
+
+TJvW Kotze
+
+DG Krige
+
+NF Laubscher
+
+HH Lemmer
+
+NJ le Roux
+
+H Linhart
+
+F Little
+
+CJ Lombard
+
+F Lombard
+
+HG Luus
+
+JS Maritz
+
+SG Meintanis
+
+PJ Mostert
+
+JH Muller
+
+AH Munro
+
+DG Nel
+
+D North
+
+EL Raath
+
+SE Radloff
+
+AA Rayner
+
+A Reitsma
+
+JJJ Roux
+
+GJ Rudolph
+
+R Schall
+
+HS Schoeman
+
+DM Schultz
+
+DEW Schumann
+
+GD Sharp
+
+HS Sichel
+
+CF Smit
+
+IA Stander
+
+SJ Steel
+
+FE Steffens
+
+TJ Stewart
+
+AGW Steyn
+
+HS Steyn
+
+HS Steyn (Jr)
+
+HM Stoker
+
+DJ Stoker
+
+JWH Swanepoel
+
+CG Troskie
+
+ML Thompson
+
+L Underhill
+
+AJ van der Merwe
+
+DFI van Heerden
+
+GJJ van Zyl
+
+JH Venter
+
+LM Verhoef
+
+RV Wallach\*
+
+AJB Wiid
+
+W Zucchini
+
+VSS Yadavalli
+
+S Meintanis
+
+F Little
+
+A Bekker
+:::

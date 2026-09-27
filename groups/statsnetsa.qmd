@@ -1,0 +1,14 @@
+---
+title: "Statistics Supervision Network in South Africa"
+---
+
+There is an increasing pull of a Mathematical Sciences graduate to enter industry rather than pursue further postgraduate studies. Within South Africa, there is an urgent need to address this even more as the field of Statistics is particularly affected by the 4IR pull, resulting in a crisis in academic capacity building. Two primary factors can be isolated as those preventing the correction of this:
+
+- First, academic salaries in Statistical Sciences are not comparable to what industry would pay at the same level of qualification (especially in light of the growth of 'Data Science'). Young academics may hold out for a while but are often dissuaded by the pressure of a large undergraduate teaching load, resulting in an ageing academic group within South Africa.
+- Second, the lack of sufficient supervisory skills and capacity, especially for the doctoral level, is evident across South African Statistics departments.
+
+In 2020, an interest group of young researchers was initiated by Prof Inger Fabris-Rotelli (University of Pretoria) to start discussing the challenges of doctoral supervision for novice and early-career supervisors in the absence of senior mentors as well as possible solutions to these challenges. This group, comprising of [7 members](https://sites.google.com/view/statsnetsa/about/founding-members) spread across South Africa, has been meeting virtually since mid-2020 and has been identifying, discussing and documenting a number of issues pertinent within their own institutions, both similar and unique. This group's meetings have shown that there is an urgent need for more support between young academics in Statistical Sciences in South Africa.
+
+This Statistics Supervision Network in South Africa (StatSNetSA) is intended to expand on the original 7 members to include additional early- and mid-career academics across South Africa. One of the goals of this network is to offer mutual support and guidance on effective supervision of Statistics doctoral students, as well as to foster the capacity development of academics in the field of Statistics through regular [seminars and workshops](https://sites.google.com/view/statsnetsa/workshops-seminars).
+
+For more information about this network please contact Danielle Roberts at [statsnetsa@sastat.org](mailto:statsnetsa@sastat.org), or look at the [StatSNetSA LinkedIn page](https://www.linkedin.com/company/statsnetsa/).

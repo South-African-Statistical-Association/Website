@@ -1,0 +1,39 @@
+---
+title: "Survey Statistics Group"
+---
+
+The Survey Statistics Interest Group welcomes all SASA members interested in survey sampling methodology and application. It aims to upskill those needing to design and analyse sample surveys but that are lacking the necessary knowledge and expertise to do so. For those with expertise, the group serves as a platform for research, collaboration, and networking. It focuses on building and strengthening statisticians' capacity in sampling theory and survey statistics.
+
+## Committee
+
+::: {.people}
+::: {}
+![](../images/people/retha-luus.png)
+
+### Dr Retha Luus
+<p class="role">Co-Chair</p>
+Department of Statistics and Population Studies, University of the Western Cape
+:::
+
+::: {}
+![](../images/people/ariane-neethling.jpg)
+
+### Dr Ariane Neethling
+<p class="role">Co-Chair</p>
+Independent statistical consultant, UFS (part-time)
+:::
+
+::: {}
+![](../images/people/georgina-borros.jpg)
+
+### Dr Georgina Borros
+<p class="role">Secretary</p>
+:::
+:::
+
+## Get in touch and sign up!
+
+- **Become a SASA member!** Join the SASA community by [registering](../apply-for-sasa-membership.qmd).
+- **Already a SASA member?** [Add the Survey Statistics interest group to your profile](../update-profile.qmd).
+
+Contact us: [survey@sastat.org](mailto:survey@sastat.org)

@@ -1,0 +1,54 @@
+---
+title: "Bursaries and Scholarships"
+---
+
+As the SASA Education Committee, we would like to extend our heartfelt congratulations to the following SASA bursary recipients for 2025. Your hard work and dedication have been recognised, and we are proud to support your academic journey.
+
+## Third Year Bursary Competition
+
+::: {.people .people-sm}
+::: {}
+![](../images/people/kamogelo-ngakane.jpg)
+
+### Kamogelo Ngakane
+Rhodes University
+:::
+
+::: {}
+![](../images/people/nqabakazi-dyantyi.jpg)
+
+### Nqabakazi Dyantyi
+Cape Peninsula University of Technology
+:::
+:::
+
+[About the Third Year Bursary Competition](third-year-bursary.qmd){.btn-sasa}
+
+## Honours Year Bursary Competition
+
+::: {.people .people-sm}
+::: {}
+![](../images/people/hope-alum.jpg)
+
+### Hope Alum
+University of the Free State
+:::
+
+::: {}
+![](../images/people/relebohile-makhanya.jpg)
+
+### Relebohile Makhanya
+North West University
+:::
+
+::: {}
+![](../images/people/ndiene-muravha.jpg)
+
+### Ndiene Muravha
+University of South Africa
+:::
+:::
+
+[About the Honours Bursary Competition](honours-bursary.qmd){.btn-sasa}
+
+Questions about the bursary competitions can be sent to [bursaries@sastat.org](mailto:bursaries@sastat.org). See also [Student Competitions](student-competitions.qmd) and [Funding Initiatives](funding.qmd).

@@ -1,0 +1,26 @@
+---
+title: "SASA Honours Bursary Competition"
+---
+
+| | |
+|---|---|
+| **Target** | Current 3rd year students enrolling for an honours Statistics course at a South African university for 2025 |
+| **Closing date** | 6 January 2025 |
+| **Sponsors** | SAS®, SASA |
+| **Contact** | Ms Amy Langston, [bursaries@sastat.org](mailto:bursaries@sastat.org) |
+: {.committee}
+
+It is with great excitement that the SASA Education Committee hereby announces the 2024/2025 SASA Honours Bursary Competition. This competition is open to all current 3rd year Statistics/Mathematical Statistics students who are planning to enrol for Statistics/Mathematical Statistics at honours level at a South African university in 2025.
+
+An applicant must be a SASA member to be eligible for this competition. SASA membership is free to any full-time student registered for a degree in statistics or a closely related field at an accredited South African tertiary institution.
+
+[Apply for SASA Student Membership (FREE)](../apply-for-sasa-membership.qmd){.btn-sasa}
+
+Applications for the SASA Honours Bursary Competition must be completed online. Applications for the 2024/2025 round have closed; the 2025 recipients are listed on the [Bursaries and Scholarships](bursaries-and-scholarships.qmd) page. Details of the next round will be announced by the Education Committee.
+
+## Important terms and conditions
+
+- The SASA Education Committee will handle the adjudication process.
+- The judges' decision will be final and there will be no correspondence regarding the decision.
+- The deadline for applications is Monday, 6 January 2025, but we would prefer entries as soon as possible.
+- Academic records of final results must be submitted before Monday, 6 January 2025.

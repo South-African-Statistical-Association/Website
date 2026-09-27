@@ -1,0 +1,21 @@
+---
+title: "Young Statistician Profile: Kabelo Mahloromela"
+date: 2026-08-01
+date-format: "MMMM YYYY"
+description: "Lecturer in the Department of Statistics at the University of Pretoria, spatial statistics researcher and member of SpatialLab@UP."
+image: ../../images/profiles/kabelo-mahloromela.jpg
+---
+
+![](../../images/profiles/kabelo-mahloromela.jpg){.float-end width=260 style="margin:0 0 1rem 1.5rem"}
+
+## Biography
+
+Kabelo Mahloromela is a lecturer in the Department of Statistics at the University of Pretoria (UP). He recently completed his PhD in Mathematical Statistics at UP, where his research focused on spatial statistics and the analysis of spatial point patterns. His broader research interests include machine learning and statistical methodology, particularly in the analysis of complex spatial data. As a member of UP's spatial statistics research group, SpatialLab@UP, he is involved in developing and applying statistical methodology to address challenges in fields such as criminology, epidemiology, ecology, and human demography. Through his research and teaching, he is committed to advancing statistical science and data analytics while contributing to the development of the next generation of statisticians.
+
+Beyond academia, Kabelo balances his analytical work through creative and physical pursuits. As a self-taught pianist and newly minted runner, he appreciates both artistic expression and the discipline of long-term challenges. Whether analysing complex data, playing music, or logging his first kilometres on the road, Kabelo is driven by curiosity and a commitment to lifelong learning.
+
+## Kabelo's 2 cents (keep the change) for students pursuing statistics amidst the modern AI hype
+
+Foundational statistics has never been more relevant.
+
+I believe that as automated models and black-box AI tools become increasingly pervasive, the ability to understand uncertainty, assess assumptions, evaluate evidence, and critically interrogate models remains essential. Statisticians bring the mathematical rigour, critical thinking, and contextual understanding needed to determine whether a model is not only accurate but also reliable and meaningful. As the field continues to evolve, embrace the steep learning curves that come with it and remain willing to continually expand your skills. Look beyond theoretical formulas to tackle real-world problems, and learn to work with, not against, modern AI while resisting the temptation to outsource your thinking to it. In my view, deep statistical understanding is what elevates a data science practitioner from simply running models to genuinely understanding what the data are saying.

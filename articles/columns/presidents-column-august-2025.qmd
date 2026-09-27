@@ -1,0 +1,28 @@
+---
+title: "President's Column, August 2025"
+author: "Daniel Maposa"
+date: 2025-08-01
+date-format: "MMMM YYYY"
+description: "Collaboration with the West African Young Statistical Association, SASA 2025 at North-West University, rekindling the partnership with Stats SA, and the Mega Maths Festival."
+image: ../../images/articles/presidents-column.jpg
+---
+
+On behalf of the SASA Executive Committee (EC), I would like to welcome you to the August 2025 issue of the SASA Newsletter. The year 2025 seems to be moving very quickly, and it is hard to believe that spring is already knocking on our doors.
+
+SASA continues to celebrate both the growth and support of our membership, as well as expanding collaboration networks within the Statistics community. Through the initiatives of the SASA EC, our Young Statisticians (YS) have begun collaboration with the West African Young Statistical Association (WAYSA). This initiative is spearheaded by Dr Renate Thiede, who oversees the SASA YS Portfolio, and Prof Christopher Udomboso, representing WAYSA. In addition, there have been various continental and global collaboration requests from sister associations, including the most recent one from the Uganda Statistical Society (USS), which would like to benchmark with us and participate in our upcoming conference. These partnerships are a clear indication of the growth, strength, and recognition of SASA among peer associations worldwide.
+
+The SASA 2025 Conference will be hosted by North-West University at the majestic Riverside Sun Resort Hotel in Vanderbijlpark. This year's conference will be held during the week of 24–28 November 2025, beginning with two days of stimulating and engaging workshops. Please diarise this important event and register for the conference if you have not already done so! Also, remember to submit your abstract before 15 September 2025.
+
+The SASA EC has also embarked on rekindling the partnership between SASA and Statistics South Africa (Stats SA). In line with this initiative, Prof Inger Fabris-Rotelli and I had a fruitful strategic meeting on 24 July 2025 at Stats SA headquarters in Pretoria with the Statistician-General (SG) and two Deputy Director-Generals (DDGs). Nearly a decade ago, SASA and Stats SA enjoyed a strong strategic partnership, and since we all contribute to the advancement of statistics in both theory and application, it is vital that we revive this relationship. While SASA plays a key role in methodological advancements, Stats SA is instrumental in policy formulation and implementation aligned with national priorities. The meeting was a success from both sides. As a result, the SG assigned one DDG to attend our July SASA EC meeting on behalf of Stats SA, and further confirmed that a senior Stats SA executive will attend all future SASA EC meetings. In addition, the SG invited Prof Fabris-Rotelli and me to attend their upcoming Stats SA Executive Committee meeting.
+
+I am sure you also heard about the Mega Maths Festival that took place in Cape Town from 7–11 July 2025. The festival was attended by your President (myself), the Immediate Past President (Prof Inger Fabris-Rotelli), and other SASA EC members including Dr Nombuso Zondo, Prof Michael von Maltitz, and the well-known statistics education advocate Prof Delia North. The Mega Maths Festival included SASA, the Association for Mathematics Education of South Africa (AMESA), the South African Mathematical Society (SAMS), and the Mathematical Sciences Strategic Alliance (MSSA, a partnership between SASA and SAMS), among others. The audience was informed about SASA's activities, its contributions to the growth of the mathematical sciences, and its role in supporting national priorities. SASA EC members participated in various panel discussions and breakaway sessions, including those focused on Statistics Education and one themed "Mathematical Sciences Fuelling Innovation." Our presence at the festival helped promote and market statistics across the broader South African mathematical sciences community. The SASA Education Committee was particularly well represented and did an outstanding job in advancing this initiative. It is also worth noting that several students from AIMS South Africa and the University of the Western Cape (UWC) attended some of these sessions with great enthusiasm for statistical sciences.
+
+In addition to SASA membership, I would like to encourage members to join SACNASP, the legislated regulatory body for natural science practitioners in South Africa. SACNASP is one of our valued conference sponsors this year, alongside several other generous supporters.
+
+In conclusion, I urge you to use your diverse and critical skills to serve in various statistical communities, including contributing to academic citizenship through peer reviews, editorial board membership, and participation in collaboration networks.
+
+I look forward to seeing you all in The Vaal in three months' time.
+
+All the best for the rest of 2025!
+
+Daniel

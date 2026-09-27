@@ -1,0 +1,11 @@
+---
+title: "Member Login"
+---
+
+SASA memberships are managed on the Glue Up platform. Log in to view the events for which you are registered and to see your SASA membership details.
+
+[Log in to your SASA profile on Glue Up](https://app.glueup.com/org/sastat/memberships){.btn-sasa}
+
+Once logged in, please click on the **Events**, **Memberships** and **Subscriptions** links to see the events for which you are registered and to view your SASA membership details. You will be redirected to the SASA profile on the Glue Up platform.
+
+Not a member yet? [Apply for SASA membership](apply-for-sasa-membership.qmd). Want to change your details or join an interest group? See [Update your SASA profile](update-profile.qmd).

@@ -1,0 +1,7 @@
+---
+title: "Professional Bodies"
+---
+
+SASA members who are registered with the South African Council for Natural Scientific Professions (SACNASP) can claim Continuing Professional Development (CPD) points for attending SASA related events, such as Interest Group seminars, the SASA conference and SASA pre-conference workshops.
+
+To register as a professional statistician please visit [SACNASP](https://www.sacnasp.org.za/). See also [Professional Registration with SACNASP](../sacnasp.qmd).

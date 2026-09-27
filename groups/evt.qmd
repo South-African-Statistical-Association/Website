@@ -1,0 +1,40 @@
+---
+title: "Extreme Value Theory Group"
+---
+
+The mission of the group is to nurture the study and knowledge of statistical theory and its application specifically in Extreme Value Theory (EVT). The establishment of this group will aid in introducing this field to upcoming statisticians, enhance statistical networking and research, and allow its members to easily keep abreast of some of the most recent local and international developments.
+
+## Get in touch and sign up!
+
+Do you want to receive newsletters and information related to the events and activities of the Extreme Value Theory Group?
+
+- **Become a SASA member!** Join the SASA community by [registering](../apply-for-sasa-membership.qmd).
+- **Already a SASA member?** [Add the Extreme Value Theory interest group to your profile](../update-profile.qmd).
+
+## EVT Committee
+
+::: {.people}
+::: {}
+![](../images/people/andrehette-verster.jpg)
+
+### Prof Andréhette Verster
+<p class="role">Chair</p>
+[chair.evt@sastat.org](mailto:chair.evt@sastat.org)
+:::
+
+::: {}
+![](../images/people/daniel-maposa-evt.jpg)
+
+### Prof Daniel Maposa
+<p class="role">Vice Chair</p>
+[vicechair.evt@sastat.org](mailto:vicechair.evt@sastat.org)
+:::
+
+::: {}
+![](../images/people/ansie-smit-evt.jpg)
+
+### Dr Ansie Smit
+<p class="role">Secretary</p>
+[secretary.evt@sastat.org](mailto:secretary.evt@sastat.org)
+:::
+:::

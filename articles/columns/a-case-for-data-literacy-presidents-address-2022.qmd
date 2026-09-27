@@ -1,0 +1,54 @@
+---
+title: "A Case for Data Literacy: President's Address, SASA 2022"
+author: "Warren Brettenny"
+date: 2022-11-30
+date-format: "D MMMM YYYY"
+description: "Why South Africa needs a data-literate society, illustrated with three examples of statistics misread in public discourse."
+image: ../../images/articles/data-literacy-2022.jpg
+---
+
+For those of you who know me well, you will know that I don't subscribe to the traditional dogma that is associated with that of a typical president. I find it more meaningful to engage on matters of importance without the aura of formality or the expected mathematical complexities that can overwhelm our conference presentations.
+
+As such, I want to discuss some things that are more general, easier to digest. For those who were here for my last address, love it or hate it, you will recall that I spoke about the importance of seeing the full picture of the data or the problem that you are solving. Missing parts of the information, whether mistakenly or purposefully, can lead to very misleading results.
+
+But when I think about it, I might have even jumped the gun on that. We often get so caught up on determining the biggest and best models and predictions that we forget that our discipline is complicated and not easily grasped by a large contingent of the population (locally and internationally).
+
+I was at a workshop and seminar series earlier this year and I was confronted with a reality that I was not ready for. I was arguing for the use of complex models for the solution of a real world problem, as you would. But my argument was countered by the person who would have to take these models and findings to the stakeholders and she said that unless the stakeholders could understand what we were presenting they would hesitate to accept/use it. I was shocked. It seemed to me that the level of our contributions is often limited to the lowest level of understanding, rather than the highest. Upon further reflection however, I can understand how a stakeholder or policy-maker might not be comfortable hanging their hat on a premise, model or prediction for which they have no basic or working understanding.
+
+So, I was now caught up wondering what would be necessary for us, as a statistics association, to do to empower people to be more comfortable using data, statistics, and analytics. It became clear to me that the solution was to tackle the lowest level of understanding, that is, data literacy.
+
+We need it. We need a nation of people who have a working knowledge of how data works and how it is represented. I am not saying that we need everyone to have a degree in statistics. We just need to work towards a broader basic understanding of data and analytics. With the vast amount of data being used, gathered and analysed on a continuous basis we need to play a role in teaching the language of data and creating a data literate society. After the spoken word, this is fast becoming the next most important literacy. Without it we are in trouble.
+
+Let me illustrate this with three examples, each highlighting different ways in which good data literacy could have resolved confusion and contentiousness in public discourse.
+
+Firstly, let's turn to a famous actor, comedian and writer, and also an influential figure on social media with over 6 million followers on YouTube: Russell Brand. Personally, I am a big fan of his work, but, in April this year he released a video called "The truth about Pfizer's Vaccines" and in it he was discussing an article from the British Medical Journal which analysed the TV advertising expenditure of the pharmaceutical industry. The quote which Mr Brand focused on was: "In 2020 TV ad spending of the pharma industry accounted for 75% of the total ad spend".
+
+So, in statistical terms, and for the data literate, this would be interpreted as "of the total spend on advertising by Big Pharma, 75% was allocated to TV commercials". Ostensibly, the remaining 25% will be for advertising on billboards, radio, internet, etc.
+
+However, the interpretation of this by Mr Brand on the video was: "Of all advertising that you are subjected to on TV, 75% of it comes from the pharmaceutical industry". This is a very different interpretation to the one intended by the article, and lends itself to the idea or concern that "big pharma" are exposing you to 3 out of every 4 commercials, presumably, in an effort to "brainwash" you.
+
+I am not here to take a side on this argument. I am just here to make sure that the statistics and data that are presented are done so accurately and not in a way that can cause concern, doubt and misinformation. Of which the above case is.
+
+Misinformation is the presentation of misleading or false information, whether this is done intentionally or not. In my opinion, this was not malicious by Mr Brand, but rather a mistaken conclusion, but such a mistake can have far reaching consequences especially when over a million viewers of the video are hearing it interpreted incorrectly. Better data literacy and understanding of the presentation of statistics and data would have led to a different video and less confusion and dissemination of misinformation.
+
+More recently, there was a report on the exit polls of the recent US mid-term election and it indicated that married women tend to vote more Republican, while single women voted more Democratic (by 37 points).
+
+The conclusion of the FOX TV newscaster who was presenting these statistics was that (and I am paraphrasing here) the Democrat policies are designed to keep women single, but once women get married they vote Republican. Almost as though the magic ticket was to get women married to turn the fortunes of Republicans around.
+
+This one is more complex, but the newscaster is falling into the trap which I highlighted in last year's address. He was not considering all the data/information. It is well known (and actually was presented later in the newscast) that younger people tend to vote Democratic. And also younger people tend to be single, so the marriage factor is probably not the driver of the vote. It is far more likely to be driven by the age of single women. This obviously needs more rigorous investigation, but again, the newscaster is responsible for spreading misinformation. Admittedly this is a more subtle case and is harder to pick up.
+
+Lastly, let's consider Jordan Peterson. As an academic, psychologist and author, Dr Peterson has risen to a considerable level of influence and notoriety in the social sciences space. I am not going to express an opinion on his politics or the validity of his arguments, but I do want to isolate something that he has said or conjectured. Again I am paraphrasing, but the argument made by Dr Peterson was that males are, in general, more interested in things, and females are, in general, more interested in people. Dr Peterson went on to conjecture that this is the reason that there are more female nurses, where compassion and a keen interest in the well-being of people is required, and, equivalently, the reason that there are more male engineers, where a keen interest in how things work and are built is required. This statement has the potential to and very much might cause a strong backlash within both groups. Accusations such as gender stereotyping etc. can be levelled at him along with a whole bunch of other criticisms.
+
+But let's take a minute and see what Dr Peterson is saying. Is he saying that all males are only interested in things and that all females are only interested in people? No, he is not. The generalisation that is being made here is made at the mean or "centre" of the data. In fact, one would imagine that the data actually shows a considerable overlap in the interests of males and females; however, the general (read this as average) female tends to be slightly more interested in people than things (and vice versa for the males). Few will argue with this sentiment, but note that even slight differences in the averages (under a normal distribution assumption) result in big differences in the tails of the distributions. This is where the comment about nurses and engineers finds its feet.
+
+It is in these extremes where the biggest differences are found. Engineers and nurses are examples of professions which are held by those who typically have strong interests in "things" and "people", respectively. The strong level of interest is only found in the tails. If we zoom in on the left tail, we can see that while there are still females included in the tails, the proportion of males in this area far exceeds that of females. For this the conclusion by Dr Peterson is that there will typically be more males in this profession because a vastly higher proportion of those who are strongly interested in "things" (i.e. in the tail) are males.
+
+With this context, and knowledge of how distributions work, a data literate person will be able to conceptualise the data which is driving the opinion and see that it might not be as controversial or far-fetched as some might believe.
+
+With a good understanding of the data and the nature of the statistics that report it, we can avoid getting caught up in the "noise" of the misinformation and see the facts and data objectively and for what they are.
+
+So, where do we go from here? What do we need to do? I am of the opinion that we need two things to happen and the one will lead into the other.
+
+Firstly, we need a population and society that is astute enough to know when what is being told to them is a misrepresentation of the data. This, in turn, will lead to the second milestone, where we need those who profess to report and comment on these statistics to have a better knowledge of what they are talking about. This will eliminate at least the "unintentional" misrepresentations of data. Statistical and analytical integrity is another issue which is intertwined within this movement, but this will have to be left for another time.
+
+In the meantime, let's focus on being critical of the data and statistics that are presented to us, and encourage others to do the same. If they are not equipped to, then we know we have a real job to do.

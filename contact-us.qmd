@@ -1,0 +1,35 @@
+---
+title: "Contact Us"
+---
+
+::: {.cards}
+::: {}
+### General Enquiries
+[secretary@sastat.org](mailto:secretary@sastat.org)
+:::
+
+::: {}
+### Membership Matters
+[membership@sastat.org](mailto:membership@sastat.org)
+:::
+
+::: {}
+### Financial Matters
+[treasurer@sastat.org](mailto:treasurer@sastat.org)
+:::
+
+::: {}
+### Postal Address
+PO Box 3341<br>
+Matieland, 7602<br>
+South Africa
+:::
+:::
+
+For questions about the website, email [webmaster@sastat.org](mailto:webmaster@sastat.org). For questions about your personal information, email the Information Officer at [info@sastat.org](mailto:info@sastat.org).
+
+## Send us a message
+
+```{=html}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScx4vx-seFnvhFhez1QyeMsI0Crq_aWav9q421icSm3y0oCdw/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0" title="Contact form">Loading…</iframe>
+```

@@ -1,0 +1,19 @@
+---
+title: "Funding Initiatives"
+---
+
+::: {.small-muted}
+Please note that this page does not contain information on the bursaries and scholarships hosted by SASA. For these please see [Bursaries and Scholarships](bursaries-and-scholarships.qmd) and [Student Competitions](student-competitions.qmd).
+:::
+
+## National Mathematics and Statistical Sciences Teaching Development (UCDP funding)
+
+The National Mathematics and Statistical Sciences Teaching Development is a national collaborative project named "The University Capacity Development Programmes National Collaborative Project: Strengthening Academic Staff Development in Mathematical and Statistical Sciences in South Africa". It is funded by the Department of Higher Education and Training (DHET). The University of Pretoria (UP) is the lead institution and the project is led by the Dean of the Faculty of Natural and Agricultural Sciences at UP.
+
+Please see [www.up.ac.za/ntdg](https://www.up.ac.za/ntdg) for further details.
+
+## DST-NRF Centre of Excellence in Mathematical and Statistical Sciences (CoE-MaSS)
+
+The National Department of Science and Technology (DST) and the National Research Foundation (NRF) awarded the CoE-MaSS to be hosted at Wits University. The Centre has 11 active Focus Areas and these are re-engineered to complement changes in line with the Centre's expertise, and with local and global research niches.
+
+Please see [www.wits.ac.za/coe-mass](https://www.wits.ac.za/coe-mass/) for further details.

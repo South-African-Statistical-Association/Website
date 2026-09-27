@@ -1,0 +1,103 @@
+---
+title: "SAS® Thought Leader Award"
+---
+
+## About the SAS® Thought Leader Award
+
+A Thought Leader is a person who has made an impact within the South African statistical community across a wide range of activities and has made significant contributions in academia, industry, government and elsewhere. The criteria include contributions and impacts made in Leadership, Knowledge Generation, Human Capital Development, Impact of the Work and Research and Attracting Funding.
+
+We invite SASA members to submit nominations for the Thought Leader for 2025 by 30 August 2025.
+
+Please also submit all supporting documents, including full CV, of the nominated person with your nomination to the SASA secretary ([secretary@sastat.org](mailto:secretary@sastat.org)).
+
+The award is made possible by the continued support of [SAS](https://www.sas.com).
+
+## SAS® Thought Leader recipients
+
+::: {.people .people-sm}
+::: {}
+![](../images/awards/tl-2024.jpg)
+
+### 2024
+R Coetzer
+:::
+
+::: {}
+![](../images/awards/tl-2023.jpg)
+
+### 2023
+M Finkelstein
+:::
+
+::: {}
+![](../images/awards/tl-2022.jpg)
+
+### 2022
+D North
+:::
+
+::: {}
+![](../images/awards/tl-2021.jpg)
+
+### 2021
+R Blignaut
+:::
+
+::: {}
+![](../images/awards/tl-2020.jpg)
+
+### 2020
+P Debba
+:::
+
+::: {}
+![](../images/awards/tl-2019.jpg)
+
+### 2019
+LP Fatti
+:::
+
+::: {}
+![](../images/awards/tl-2018.jpg)
+
+### 2018
+T de Wet
+:::
+
+::: {}
+![](../images/awards/tl-2017.jpg)
+
+### 2017
+DJ de Waal
+:::
+
+::: {}
+![](../images/awards/tl-2016.jpg)
+
+### 2016
+LM Haines
+:::
+
+::: {}
+![](../images/awards/tl-2015.jpg)
+
+### 2015
+NJ le Roux
+:::
+
+::: {}
+![](../images/awards/tl-2014.jpg)
+
+### 2014
+R de Jongh
+:::
+
+::: {}
+![](../images/awards/tl-2013.jpg)
+
+### 2013
+L Lombard
+:::
+:::
+
+Read the [profile of Prof Renette Blignaut](../articles/profiles/renette-blignaut-thought-leader-2021.qmd), SAS® Thought Leader 2021.

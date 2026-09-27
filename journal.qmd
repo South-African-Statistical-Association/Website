@@ -1,12 +1,37 @@
 ---
-title: "Journal"
+title: "South African Statistical Journal"
 ---
 
-The South African Statistical Journal (SASJ) is the official journal of SASA.
+The South African Statistical Journal (SASJ) is the official journal of the South African Statistical Association and is published bi-annually (in March and September) and all published papers are open access.
 
-- It is published two times each year, in March and September.
-- All papers are open access.
+SASJ aims to publish innovative contributions to the theory and application of statistics. Articles of general or non-technical nature will also be considered provided that the topic is of current interest to the theory, application or teaching of statistics. Authoritative review articles on topics of general interest which are not readily accessible in a coherent form will also be considered for publication.
 
-## Contact
+SASJ is accredited by the [Department of Higher Education and Training](https://www.dhet.gov.za/) of South Africa. The Journal is indexed in the Web of Science Emerging Sources Citation Index (ESCI) and on Scopus Sources. The Journal is abstracted by Zentralblatt MATH.
 
-Send questions to the Managing Editor at [managing.editor@sastat.org](mailto:managing.editor@sastat.org).
+For published issues of SASJ, paper submission instructions and author guidelines, please visit the journal homepage by clicking the button below.
+
+[SASJ Website](https://www.journals.ac.za/index.php/sasj){.btn-sasa}
+
+::: {.small-muted}
+Please note that clicking the button above will direct you to the official page of the SASA Journal, hosted on SUN Journals.
+:::
+
+## Editorial Committee
+
+::: {.people}
+::: {}
+![](images/people/neill-smit.jpg)
+
+### Dr Neill Smit
+<p class="role">Managing Editor</p>
+[managing.editor@sastat.org](mailto:managing.editor@sastat.org)
+:::
+
+::: {}
+![](images/people/nelis-potgieter.png)
+
+### Prof Nelis Potgieter
+<p class="role">Editor: SASJ</p>
+[sasj.editor@sastat.org](mailto:sasj.editor@sastat.org)
+:::
+:::

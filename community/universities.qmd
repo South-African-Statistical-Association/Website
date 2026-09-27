@@ -1,0 +1,29 @@
+---
+title: "Universities"
+---
+
+Statistics departments at South African universities. Please email [webmaster@sastat.org](mailto:webmaster@sastat.org) if your department's details need to be updated.
+
+| University | Head of Department | Email | Website |
+|---|---|---|---|
+| Nelson Mandela University | Dr Chantelle Clohessy | [chantelle.clohessy@mandela.ac.za](mailto:chantelle.clohessy@mandela.ac.za) | [Website](https://statistics.mandela.ac.za/) |
+| North-West University, Potchefstroom Campus | Dr Gerrit Grobler | [gerrit.grobler@nwu.ac.za](mailto:gerrit.grobler@nwu.ac.za) | [Website](http://natural-sciences.nwu.ac.za/mathematical-and-statistical-sciences/about-us) |
+| North-West University, Vaal Campus | Mr Piet Ntema | [Piet.Ntema@nwu.ac.za](mailto:Piet.Ntema@nwu.ac.za) | [Website](http://natural-sciences.nwu.ac.za/mathematical-and-statistical-sciences/about-us) |
+| North-West University, Mafikeng Campus | Dr Volition T. Montshiwa | [Volition.Montshiwa@nwu.ac.za](mailto:Volition.Montshiwa@nwu.ac.za) | [Website](http://commerce.nwu.ac.za/economicsciences) |
+| Rhodes University | Mr Jeremy Baxter | [j.baxter@ru.ac.za](mailto:j.baxter@ru.ac.za) | [Website](http://www.ru.ac.za/statistics/) |
+| Sefako Makgatho Health Sciences University | Prof Solly Seeletse | [Sollie.Seeletse@smu.ac.za](mailto:Sollie.Seeletse@smu.ac.za) | [Website](https://www.smu.ac.za/schools/science-and-technology/school-of-science-and-technology-academic-departments/department-of-statistics-and-operations-research/) |
+| Stellenbosch University | Prof Justin Harvey | [jharvey@sun.ac.za](mailto:jharvey@sun.ac.za) | [Website](http://www.sun.ac.za/english/faculty/economy/statistics) |
+| University of Cape Town | Prof Freedom Gumedze | [freedom.gumedze@uct.ac.za](mailto:freedom.gumedze@uct.ac.za) | [Website](http://www.stats.uct.ac.za/) |
+| University of Fort Hare | Dr M Mutambayi | [MMutambayi@ufh.ac.za](mailto:MMutambayi@ufh.ac.za) | [Website](http://www.ufh.ac.za/departments/statistics/home.htm) |
+| University of the Free State | Dr Sean van der Merwe | [vandermerwes@ufs.ac.za](mailto:vandermerwes@ufs.ac.za) | [Website](http://natagri.ufs.ac.za/content.aspx?DCode=117) |
+| University of KwaZulu-Natal (Academic Leader) | Prof Retius Chifurira | [chifurira@ukzn.ac.za](mailto:chifurira@ukzn.ac.za) | [Website](https://smscs.ukzn.ac.za/) |
+| University of Limpopo | Dr Daniel Maposa | [daniel.maposa@ul.ac.za](mailto:daniel.maposa@ul.ac.za) | [Website](http://www.ul.ac.za/index.php?Entity=sch_compu_prog_stat) |
+| University of Pretoria | Prof Sollie Millard | [sollie.millard@up.ac.za](mailto:sollie.millard@up.ac.za) | [Website](http://www.up.ac.za/statistics) |
+| University of South Africa | Dr Basetsana Pauline Ntsime | [ntsimbp@unisa.ac.za](mailto:ntsimbp@unisa.ac.za) | [Website](http://www.unisa.ac.za/Default.asp?Cmd=ViewContent&ContentID=224) |
+| University of Venda | Prof Simiso Moyo | [Simiso.Moyo@univen.ac.za](mailto:Simiso.Moyo@univen.ac.za) | [Website](http://www.univen.ac.za/index.php?Entity=Statistics&Sch=8) |
+| University of the Western Cape | Dr Humphrey Brydon | [hbrydon@uwc.ac.za](mailto:hbrydon@uwc.ac.za) | [Website](http://www.uwcstats.x10.mx/stats1/) |
+| University of Zululand | Prof Maba Matadi | [MatadiM@unizulu.ac.za](mailto:MatadiM@unizulu.ac.za) | [Website](http://www.unizulu.ac.za/wp-content/uploads/2015/06/Mathematics.pdf) |
+| University of the Witwatersrand | Professor Stephen Jurisich | [Stephen.jurisich@wits.ac.za](mailto:Stephen.jurisich@wits.ac.za) | [Website](http://www.wits.ac.za/science/schools/statistics-and-actuarial-science/) |
+| Walter Sisulu University | Prof W Sinkala | [wsinkala@wsu.ac.za](mailto:wsinkala@wsu.ac.za) | [Website](http://www.wsu.ac.za/waltersisulu/wp-content/uploads/2015/01/WSU-Mthatha-Natural-Sciences-Faculty-prospectus-f-2015.pdf) |
+| University of Johannesburg | Jacques van Appel | [jvanappel@uj.ac.za](mailto:jvanappel@uj.ac.za) | [Website](http://www.uj.ac.za/faculties/science/statistics) |
+: {.committee}

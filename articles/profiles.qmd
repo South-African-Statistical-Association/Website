@@ -1,0 +1,13 @@
+---
+title: "Statistician Profiles"
+listing:
+  contents: profiles
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields: [image, date, title, description]
+  date-format: "MMMM YYYY"
+  image-height: 220px
+---
+
+Profiles of young statisticians, award winners and office bearers, published in the SASA Newsletter. The August 2021 profile of Ulrich Kotze is available in that newsletter issue.

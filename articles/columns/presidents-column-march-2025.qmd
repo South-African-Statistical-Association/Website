@@ -1,0 +1,32 @@
+---
+title: "President's Column, March 2025"
+author: "Daniel Maposa"
+date: 2025-03-01
+date-format: "MMMM YYYY"
+description: "Reflections on SASA2024 at UWC, plans for SASA2025 in the Vaal, a new Quantitative Finance interest group, and a vision for statistics education."
+image: ../../images/articles/presidents-column.jpg
+---
+
+On behalf of the SASA executive committee, I would like to welcome you to the SASA Newsletter March 2025 Issue. SASA made tremendous achievements in 2024, and we continue to celebrate the growth and support of our membership. I saw many of you at our annual SASA conference hosted by University of Western Cape (UWC) in the famous wine-producing town of Stellenbosch last November.
+
+Our SASA2024 conference was phenomenal, thanks to the wonderful LOC team for their immense effort to make the conference a success. Indeed, the SASA2025 conference is promising to be yet another exciting event!
+
+The SASA2025 conference will be hosted by North-West University in the gorgeous Vaal, at the majestic Riverside Sun Resort Hotel, Vanderbijlpark. The conference will be held during the week of 24-28 November 2025 inclusive of the first two days of stimulating and enthusiastic workshops. Please diarise this now! I am looking forward to seeing you all in The Vaal.
+
+The long-awaited new year, 2025, has since arrived and in March we are already at the tail end of the first quarter. Time seems to pass very quickly. There is a common phrase that goes by "Time flies." People often say time flies when you are having fun.
+
+As statisticians, we can define having fun as referring to honouring the dreams inside of us. These dreams range from carrying out academic research in our statistics field of interest, involvement in academic citizenship, participation in community outreach programmes, and spending some leisure time with families and friends.
+
+Through honouring our dreams, we can change the world. Remember that only those who dare to dream can change the world. We are all capable of making significant contributions to the world through our individual and collective participation in the field of statistics. If you think you are too small to make a difference you have never spent a night in a room with a mosquito. Since we are in an enthusiastic field of statistics where our brains are stimulated all the time, making significant contributions to the society is an obligation. Three key attributes namely vision, purpose, and relentless pursuit of greatness are crucial for success in all aspects of academic research in the field of statistics. With these three attributes one is sure to succeed in making a significant contribution to the world regardless of the length of time it takes to attain such an achievement. No matter how long the night, the day is sure to come!
+
+The SASA EC is excited to announce that it is in the process of introducing Quantitative Finance as a new special interest group (SIG) in addition to the existing nine ([see the Special Interest Groups](../../groups/index.qmd)). This has been motivated and inspired by a growing national and global interest in Quantitative Finance. As your President, I strongly encourage all members to affiliate themselves to at least one of these SIGs or to propose other possible SIGs that members may deem necessary. In addition, following the 2024 AGM announcement and implementation, conference proceedings submission shall continue to come after the annual conferences. Get your submissions ready!
+
+On behalf of the SASA EC, I would like to encourage all members to join SACNASP, a legislated regulatory body for natural science practitioners in South Africa. My visions for SASA are built on the foundations of the recent developments and achievements of my predecessors. One of my visions is to increase statistics education opportunities through collaborative bursaries and scholarships in an effort to provide funding for undergraduate and honours students. This is aimed at promoting and marketing statistics to the South African student body that will continue to fly the flag of statistics high in the future. The SASA Education Committee is doing a tremendous job in advancing this initiative. In South Africa we are still fortunate to be blessed with a student body that has a keen interest in statistics.
+
+In conclusion, I would like to make a disclaimer that neither my ideas nor those of the rest of the executives may be enough to move our association forward. Fortunately, there is a sure probability that you and I are passionate about Statistics in South Africa and its sustainability.
+
+Therefore, all views and suggestions that can effectively advance Statistics in South Africa are welcome so that the executive can continue to serve the community well. My door will always be open for these views. It is a fact that the field of statistics is still in a crisis that is exacerbated by the exodus of experienced academic staff who are leaving academia for the corporate world or through retirement, leading to large class sizes with limited academic human resources. Lastly, I would like to urge all of us to continue to safeguard, protect and zealously preserve our statistics discipline as our home of comfort.
+
+All the best for 2025!
+
+Daniel
