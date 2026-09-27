@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "South African Statistical Association"
@@ -126,7 +126,7 @@ website:
   page-footer:
     left: |
       &copy; 2021 South African Statistical Association<br>
-      By viewing and/or interacting with this website you acknowledge that you have read and understand the [POPI disclaimer, terms of use and privacy policy](/privacy-policy.html).
+      By viewing and/or interacting with this website you acknowledge that you have read and understand the [POPI disclaimer, terms of use and privacy policy](privacy-policy.qmd).
     center:
       - href: contact-us.qmd
         text: Contact Us

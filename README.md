@@ -5,7 +5,7 @@ Source for the South African Statistical Association website, built with [Quarto
 ## Build
 
 - `quarto preview` to view the site locally.
-- `quarto render` to build it into `_site/`.
+- `quarto render` to build it into `docs/`, which GitHub Pages serves (Settings → Pages → branch `main`, folder `/docs`).
 
 ## Where things live
 
