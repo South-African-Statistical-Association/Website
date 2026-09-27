@@ -19,6 +19,12 @@ The 67th annual conference of the South African Statistical Association. The pro
 
 SASA events, seminars and webinars are published on the SASA Glue Up events page. Members receive invitations by email.
 
+<!-- Glue Up event list: updates automatically as events are added on Glue Up -->
+```{=html}
+<script src="https://app.glueup.com/compiled/js/eb-widgets.min.js" type="text/javascript"></script>
+<iframe class="eb-widget glueup-events" id="eb-widget-event-list" name="eb-widget-event-list" title="SASA events on Glue Up" src="https://app.glueup.com/organization/1528/widget/event-list/small-view"></iframe>
+```
+
 [SASA events on Glue Up](https://app.glueup.com/org/sastat/events/){.btn-sasa}
 
 ## Past events
@@ -42,5 +48,3 @@ See [SASA Conferences](conferences.qmd#sasa-2024).
 Watch the recordings on the [Past Event Videos](past-events-videos.qmd) page.
 :::
 :::
-
-Older announcements are kept in the [news archive](../articles/archive.qmd).

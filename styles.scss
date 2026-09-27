@@ -117,3 +117,33 @@ figcaption { font-size: .9rem; color: #555; }
 
 .conf-logo { max-height: 90px; max-width: 260px; float: right; margin: 0 0 .5rem 1rem; }
 .events-list > div::after { content: ""; display: block; clear: both; }
+
+/* Glue Up events widget */
+.glueup-events { display: block; width: 100%; height: 640px; border: 0; margin: 1rem 0; background: transparent; }
+
+/* SIG logo at the top of each group page */
+.sig-logo { max-height: 140px; max-width: 280px; float: right; margin: 0 0 1rem 1.5rem; }
+@media (max-width: 576px) { .sig-logo { float: none; display: block; margin: 0 auto 1rem; } }
+
+/* Special Interest Group colours, taken from the SIG pages on the old SASA Google Site.
+   $sig is the group colour (used for accents); $sig-text is a darker shade where the
+   group colour is too light to read as heading text on white. */
+$sig-colours: (
+  mdag:           (#3b4569, #3b4569),
+  bayes:          (#ebdb63, #8a7a0f),
+  datascience:    (#2e75b6, #2e75b6),
+  evt:            (#990033, #990033),
+  spatialstats:   (#a9d18e, #4f7a33),
+  forecasting:    (#8bb264, #557a30),
+  statseducation: (#c14e70, #a8385a),
+  survey:         (#4809ad, #4809ad),
+  statsnetsa:     (#cc4125, #b0381f),
+);
+@each $name, $c in $sig-colours {
+  .sig-#{$name} {
+    h1, h2, h3 { color: nth($c, 2); }
+    h2 { border-bottom-color: nth($c, 1); }
+    .people img { border-color: nth($c, 1); }
+    .btn-sasa { background: nth($c, 2); }
+  }
+}

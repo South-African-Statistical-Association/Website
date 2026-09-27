@@ -1,6 +1,9 @@
 ---
 title: "SASA Bayes Group"
+body-classes: sig sig-bayes
 ---
+
+![](../images/groups/bayes.jpg){.sig-logo fig-alt="SASA Bayes Group logo"}
 
 The SASA Bayes Group brings together members interested in Bayesian statistics. Membership is free to all SASA members: [update your SASA profile](../update-profile.qmd) to join.
 

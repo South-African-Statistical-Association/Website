@@ -12,7 +12,7 @@ page-layout: full
 ```
 
 ::: {.notice}
-**SASA 2026 Conference hosted by Wits!** 23 – 27 November 2026, Birchwood Hotel and OR Tambo Conference Centre, Johannesburg. [Check it out here](https://sasaconference2026.org/) or see [Current and Upcoming Events](events/current-and-upcoming.qmd).
+**SASA 2026 Conference hosted by Wits!** 23 – 27 November 2026, Birchwood Hotel, Boksburg [Check it out here](https://sasaconference2026.org/) or see [Current and Upcoming Events](events/current-and-upcoming.qmd).
 :::
 
 ::: {.aims}
@@ -78,7 +78,7 @@ SASA provides learning and teaching opportunities to members through an active w
 
 ## Statistics jobs and vacancies
 
-- **Durban University of Technology:** Full Professor, Associate Professor and Head of Department in Applied Statistics or Mathematical Statistics. Closing date 18 September 2026.
+There are no vacancies listed at the moment.
 
 [Click here for statistics job listings](jobs.qmd){.btn-sasa}
 

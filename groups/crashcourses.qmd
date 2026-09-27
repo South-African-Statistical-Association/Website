@@ -1,5 +1,6 @@
 ---
 title: "Crash Courses"
+body-classes: sig sig-datascience
 ---
 
 Short courses offered by the [Data Science Group](datascience.qmd).
@@ -8,4 +9,4 @@ Short courses offered by the [Data Science Group](datascience.qmd).
 
 Presented by Dr Warren Brettenny.
 
-Course material is available on the [SASA Google Site](https://www.sastat.org/groups/datascience/crashcourses/image_classification_1). Contact [datascience@sastat.org](mailto:datascience@sastat.org) for more information.
+For the course material, contact [datascience@sastat.org](mailto:datascience@sastat.org) for more information.

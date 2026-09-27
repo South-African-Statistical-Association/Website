@@ -1,18 +1,17 @@
 ---
 title: "Spatial Statistics Group"
+body-classes: sig sig-spatialstats
 ---
+
+![](../images/groups/spatialstats.png){.sig-logo fig-alt="Spatial Statistics Group logo"}
 
 The Spatial Statistics Interest Group is open to all SASA members involved in statistics of spatial data. This includes, but is not limited to, geostatistics, GIS applications, spatial analysis, spatial disease modelling, spatial data science, location data and remote sensing. The group aims to develop stronger capacity of statisticians with spatial analysis skills, as well as facilitate networking. The group hosts a number of webinars and seminars annually, discusses spatial skill development across the SASA member base, as well as alerts members to international events in Spatial Statistics.
 
 The group is led by Prof Inger Fabris-Rotelli, Prof Pravesh Debba and Ms Renate Thiede.
 
-## Get in touch and sign up!
+## Contact
 
-Do you want to receive newsletters and information related to the events and activities of the Spatial Statistics Group?
-
-- **Become a SASA member!** Join the SASA community by [registering](../apply-for-sasa-membership.qmd).
-- **Already a SASA member?** [Add the spatial statistics interest group to your profile](../update-profile.qmd).
-- **Get in contact with our team.** Provide your name, contact details and suggestions on the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScsEwBOSq2JyDYau0CR_w8xrsAeNBUe7p4zHSScsiNRt66HUQ/viewform).
+Provide your name, contact details and suggestions on the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScsEwBOSq2JyDYau0CR_w8xrsAeNBUe7p4zHSScsiNRt66HUQ/viewform).
 
 ## Spatial Statistics Committee
 

@@ -17,9 +17,4 @@ The President's Column from the SASA Newsletter, presidential addresses and feat
 ### [Statistician Profiles](profiles.qmd)
 Young Statistician profiles and profiles of award winners and office bearers.
 :::
-
-::: {}
-### [Archive](archive.qmd)
-Older announcements and event notices.
-:::
 :::

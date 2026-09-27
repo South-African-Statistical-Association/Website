@@ -1,6 +1,9 @@
 ---
 title: "Multivariate Data Analysis Group"
+body-classes: sig sig-mdag
 ---
+
+![](../images/groups/mdag.png){.sig-logo fig-alt="MDAG logo"}
 
 The mission of the Multivariate Data Analysis Group (MDAG) is to create a network and support system for those interested in multivariate data analysis and classification in a broad sense; exploring a wide range of possible applications.
 

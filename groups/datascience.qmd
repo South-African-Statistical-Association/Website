@@ -1,6 +1,9 @@
 ---
 title: "Data Science Group"
+body-classes: sig sig-datascience
 ---
+
+![](../images/groups/datascience.png){.sig-logo fig-alt="Data Science Group logo"}
 
 The Data Science Group is SASA's special interest group for data science. It includes the [Financial Data Science Group](financial-data-science.qmd) subgroup and offers [crash courses](crashcourses.qmd).
 

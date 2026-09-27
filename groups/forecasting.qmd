@@ -1,6 +1,9 @@
 ---
 title: "Forecasting Interest Group"
+body-classes: sig sig-forecasting
 ---
+
+![](../images/groups/forecasting.png){.sig-logo fig-alt="Forecasting Interest Group logo"}
 
 The Forecasting Interest Group (FIG) in South Africa is a collaborative community of professionals and enthusiasts. We are dedicated to advancing and applying forecasting techniques across various domains. Established to foster knowledge exchange, skill development, and innovation in forecasting, FIG is a hub for individuals and organizations seeking to enhance their forecasting capabilities and stay abreast of emerging trends and methodologies.
 

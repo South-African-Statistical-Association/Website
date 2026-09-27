@@ -1,5 +1,6 @@
 ---
 title: "Statistics Education"
+body-classes: sig sig-statseducation
 ---
 
 The Special Interest Group (SIG) on Statistics Education is dedicated to SASA members who are actively engaged in or interested in the field of statistics education. This includes, but is not limited to, teaching methodologies, curriculum development, educational research in statistics, innovative pedagogical practices, and technology (artificial intelligence etc.) integration in statistics education.

@@ -1,6 +1,9 @@
 ---
 title: "Statistics Supervision Network in South Africa"
+body-classes: sig sig-statsnetsa
 ---
+
+![](../images/groups/statsnetsa.png){.sig-logo fig-alt="StatSNetSA logo"}
 
 There is an increasing pull of a Mathematical Sciences graduate to enter industry rather than pursue further postgraduate studies. Within South Africa, there is an urgent need to address this even more as the field of Statistics is particularly affected by the 4IR pull, resulting in a crisis in academic capacity building. Two primary factors can be isolated as those preventing the correction of this:
 

@@ -1,6 +1,9 @@
 ---
 title: "Survey Statistics Group"
+body-classes: sig sig-survey
 ---
+
+![](../images/groups/survey-statistics.png){.sig-logo fig-alt="Survey Statistics Group logo"}
 
 The Survey Statistics Interest Group welcomes all SASA members interested in survey sampling methodology and application. It aims to upskill those needing to design and analyse sample surveys but that are lacking the necessary knowledge and expertise to do so. For those with expertise, the group serves as a platform for research, collaboration, and networking. It focuses on building and strengthening statisticians' capacity in sampling theory and survey statistics.
 
@@ -31,9 +34,6 @@ Independent statistical consultant, UFS (part-time)
 :::
 :::
 
-## Get in touch and sign up!
-
-- **Become a SASA member!** Join the SASA community by [registering](../apply-for-sasa-membership.qmd).
-- **Already a SASA member?** [Add the Survey Statistics interest group to your profile](../update-profile.qmd).
+## Contact
 
 Contact us: [survey@sastat.org](mailto:survey@sastat.org)

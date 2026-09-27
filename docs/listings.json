@@ -16,12 +16,6 @@
     ]
   },
   {
-    "listing": "/articles/news.html",
-    "items": [
-      "/articles/news/uwc-outreach-data-scientists-of-the-future.html"
-    ]
-  },
-  {
     "listing": "/articles/columns.html",
     "items": [
       "/articles/columns/presidents-column-august-2026.html",
@@ -41,6 +35,12 @@
       "/articles/columns/a-statisticians-role-in-the-pandemic-of-misinformation.html",
       "/articles/columns/a-brief-history-of-bayesian-statistics-at-ufs.html",
       "/articles/columns/presidents-column-april-2021.html"
+    ]
+  },
+  {
+    "listing": "/articles/news.html",
+    "items": [
+      "/articles/news/uwc-outreach-data-scientists-of-the-future.html"
     ]
   }
 ]
