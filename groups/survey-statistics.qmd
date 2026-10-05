@@ -34,6 +34,16 @@ Independent statistical consultant, UFS (part-time)
 :::
 :::
 
+## Presentations
+
+### Official Statistics in an AI Age: How the Data Ecosystem Impacts the Work at Stats SA
+
+Ashwell Jenneker, Deputy Director-General, Statistics South Africa
+
+Shared with the Survey Statistics Interest Group with the kind permission of the presenter.
+
+[Download the presentation (PDF)](files/Jenneker-Official-Statistics-in-an-AI-Age-2026.pdf){.btn-sasa}
+
 ## Contact
 
 Contact us: [survey@sastat.org](mailto:survey@sastat.org)
