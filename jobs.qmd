@@ -4,6 +4,133 @@ title: "Job Listings and Opportunities"
 
 Organisations that are [affiliated members](apply-for-sasa-membership.qmd) of SASA can advertise positions for statisticians and data scientists here. See [Partner and Advertise with SASA](partner.qmd) or email [sponsorships@sastat.org](mailto:sponsorships@sastat.org).
 
-## Current vacancies
+## Opportunities at the University of Limpopo
 
-There are no vacancies listed at the moment. Please check back soon.
+**Closing date: 23 October 2026**
+
+The Department of Statistics and Operation Research in the Faculty of Science and Agriculture at the University of Limpopo is recruiting for the following posts.
+
+### Professor (Statistics)
+
+[Download the full advert (PDF)](files/jobs/Professor-Department-of-Statistics-and-Operation-Research.pdf)
+
+#### Qualifications and requirements
+
+- PhD in the field of Statistics.
+- At least ten (10) years of relevant research and teaching experience at tertiary level.
+- Appropriate administrative experience.
+- Supervised at least two (2) PhD students to completion in the relevant discipline.
+- Evidence of publication in DHET accredited journals, that is, at least ten (10) publications.
+- Evidence of good publication track record, including recent publications.
+- Record of lecturing Statistics modules at both undergraduate and postgraduate levels.
+- Ability and evidence of sourcing third-stream income.
+- Evidence of the ability to establish collaborations and raise research funds.
+- Experience and expertise in the use of various statistical software packages such as SAS, R, Python, SPSS, STATA, etc.
+- Evidence of community engagement activities.
+
+#### Duties and responsibilities
+
+- Teach students at both undergraduate and postgraduate levels.
+- Supervise postgraduate students at all levels (Honours, Masters, PhD).
+- Conduct research in any of the branches of Statistics.
+- Engage in community outreach programmes.
+- Contribute to departmental, school and faculty administration as required.
+- Contribute to curriculum development.
+
+#### Added advantages
+
+- NRF rating.
+- Excellent interpersonal and communication skills.
+- Excellent research and postgraduate supervision record.
+- Evidence of proposal writing skills for funding purposes.
+- Evidence of participation in academic administration.
+- Evidence of academic leadership.
+
+**Enquiries regarding conditions of service:** Ms BT Tshehla, Tel 015 268 3513
+
+**Employment equity preference:** African males and African females.
+
+### Professor / Associate Professor (Operations Research)
+
+[Download the full advert (PDF)](files/jobs/Professor-Associate-Professor-Department-of-Statistics-and-Operation-Research.pdf)
+
+#### Qualifications and requirements
+
+- PhD in the field of Operations Research or Data Analytics.
+- At least ten (10) years for Professorship level and seven (7) years for Associate Professorship level of relevant research and teaching experience at tertiary level.
+- Appropriate administrative experience.
+- Supervised at least two (2) PhD students to completion in the relevant discipline for the Professorship level.
+- Evidence of publication in DHET accredited journals, that is, at least ten (10) publications for Professorship level and at least five (5) publications for Associate Professorship level.
+- Evidence of good publication track record, including recent publications.
+- Record of lecturing Operations Research courses/modules at both undergraduate and postgraduate levels.
+- Ability and evidence of sourcing third-stream income.
+- Evidence of the ability to establish collaborations and raise research funds.
+- Experience and expertise in the use of various statistical software packages such as SAS, R, Python, SPSS, STATA, etc.
+- Evidence of community engagement activities.
+
+#### Duties and responsibilities
+
+- Teach students at both undergraduate and postgraduate levels.
+- Teach the Operational Research modules for undergraduate levels and develop a postgraduate curriculum.
+- Supervise postgraduate students at all levels (Honours, Masters, PhD).
+- Conduct research in any of the branches of Operations Research or Statistics.
+- Engage in community outreach programmes.
+- Contribute to departmental, school and faculty administration as required.
+
+#### Added advantages
+
+- NRF rating.
+- Excellent interpersonal and communication skills.
+- Proven research record and teaching in Operations Research.
+- Evidence of proposal writing skills for funding purposes.
+- Evidence of participation in academic administration.
+- Evidence of academic leadership for Professorship level.
+
+**Enquiries regarding conditions of service:** Ms BT Tshehla, Tel 015 268 3740
+
+**Employment equity preference:** Professor: African males and African females. Associate Professor: African and Indian males, and African females.
+
+### Senior Lecturer
+
+[Download the full advert (PDF)](files/jobs/Senior-Lecturer-Department-of-Statistics-and-Operation-Research.pdf)
+
+#### Qualifications and requirements
+
+- PhD in the field of Statistics or Operations Research.
+- At least three (3) years relevant research and teaching experience at tertiary institution(s).
+- Evidence of teaching both Statistics and Operations Research modules at both undergraduate and postgraduate levels.
+- Evidence of postgraduate students (Honours, Masters) supervision and publications in DHET accredited journals.
+- Evidence of the ability to establish research collaborations and raise research funds.
+- Expertise in the use of statistical software packages like SPSS, SAS, STATA, STATISTICA, etc.
+- Evidence of community engagement activities.
+
+#### Duties and responsibilities
+
+- Teach students at both undergraduate and postgraduate level.
+- Teach the Operational Research modules for undergraduate levels and develop a postgraduate curriculum.
+- Participate in academic administration.
+- Engage in research projects and publish results.
+- Engage in community outreach programmes.
+- Assist in departmental and school administration.
+- Supervise postgraduate students at Honours and Master's levels.
+
+#### Added advantages
+
+- Record of supervision at postgraduate level.
+- Evidence of participation in academic administration.
+- Good publication record.
+- Excellent interpersonal and communication skills.
+
+**Enquiries regarding conditions of service:** Ms BT Tshehla, Tel 015 268 3740
+
+**Employment equity preference:** African and Indian males, and African females.
+
+### How to apply
+
+Please submit a cover letter clearly indicating which post you are applying for, a detailed CV with all your names, addresses, contact details and e-mail address, and the contact numbers of three (3) referees. Include certified copies of all qualifications, including your Matric / Grade 12 certificate, academic transcripts, and a South African ID or passport. E-mail applications to the Human Resources Officer at [recruitment9@ul.ac.za](mailto:recruitment9@ul.ac.za).
+
+- It is the applicant's responsibility to have foreign qualifications evaluated by the South African Qualifications Authority (SAQA).
+- Failure to submit the requested documents or information will result in your application not being considered.
+- The University of Limpopo is an Equal Opportunity Employer. All appointments will be made in accordance with the University's Employment Equity Policy.
+- Correspondence will be limited to short-listed candidates only. Applicants who have not been contacted within 30 days of the closing date must consider their applications unsuccessful.
+- The University reserves the right not to make an appointment.
