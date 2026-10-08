@@ -78,7 +78,7 @@ SASA provides learning and teaching opportunities to members through an active w
 
 ## Statistics jobs and vacancies
 
-There are no vacancies listed at the moment.
+- **University of Limpopo, Department of Statistics and Operation Research:** Professor (Statistics), Professor / Associate Professor (Operations Research), and Senior Lecturer. Closing date: 23 October 2026. [See the full listings](jobs.qmd).
 
 [Click here for statistics job listings](jobs.qmd){.btn-sasa}
 
