@@ -6,8 +6,7 @@ page-layout: full
 
 ```{=html}
 <div class="page-banner">
-  <p class="banner-title">South African Statistical Association</p>
-  <p>A non-profit association that promotes statistics in South Africa</p>
+  <img class="banner-logo" src="images/SASA-for-inkscape.png" alt="SASA - South African Statistical Association">
 </div>
 ```
 

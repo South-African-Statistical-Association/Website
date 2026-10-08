@@ -9,7 +9,7 @@ website:
   page-navigation: false
   search: true
   navbar:
-    logo: images/sasa_logo.png
+    logo: images/SASA-BLUE_transparent.svg
     logo-alt: "SASA logo"
     title: false
     collapse-below: lg
