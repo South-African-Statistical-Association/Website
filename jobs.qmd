@@ -4,6 +4,75 @@ title: "Job Listings and Opportunities"
 
 Organisations that are [affiliated members](apply-for-sasa-membership.qmd) of SASA can advertise positions for statisticians and data scientists here. See [Partner and Advertise with SASA](partner.qmd) or email [sponsorships@sastat.org](mailto:sponsorships@sastat.org).
 
+## Opportunities at North-West University
+
+**Closing date: 25 October 2026**
+
+The School of Mathematical and Statistical Sciences in the Faculty of Natural and Agricultural Sciences at North-West University (Potchefstroom Campus) is recruiting for the following post.
+
+### Associate Professor in Statistics (V002765)
+
+[Download the full advert (PDF)](files/jobs/NWU-Associate-Professor-in-Statistics-V002765.pdf)
+
+**Peromnes grade:** A4
+**Employment type:** Permanent appointment
+**Planned commencement of duties:** As soon as possible
+
+#### Purpose of the position
+
+An experienced academic in mathematical statistics. The candidate must have ample experience in teaching and learning, successfully completing research projects, including publications in national and international accredited scientific journals. The candidate will be expected to act as mentor of junior staff in the department. The candidate will be responsible for lecturing undergraduate and postgraduate statistics modules and can also be expected to be involved in the development of new modules. Other duties include the supervision or co-supervision of PhD and master's student projects.
+
+#### Minimum requirements
+
+- A PhD (NQF Level 10) in Mathematical Statistics.
+- A minimum of five (5) years' experience working with the administration of large class groups.
+- A minimum of five (5) years' experience in teaching undergraduate and postgraduate mathematical statistics courses.
+- A proven publication track record of a minimum of five (5) articles.
+- A proven track record of supervising students at a PhD and Master's level.
+
+#### Key functional and technical competencies
+
+The candidate must be able to:
+
+- Present both undergraduate and postgraduate statistics modules.
+- Act as a group coordinator for modules with multiple groups.
+- Handle large undergraduate classes.
+- Supervise honours students.
+- Communicate well in English (verbally and in writing).
+- Analyse data using advanced statistical techniques by means of suitable statistical computer packages (such as SAS, R, SPSS and STATISTICA).
+- Provide guidance with regards to data collection and data analysis.
+
+#### Key behavioural competencies
+
+- Professional and ethical behaviour.
+- Work well independently and within a team.
+- Have very good people skills.
+- Be able to act as a mentor for junior staff.
+
+#### Key responsibilities
+
+- **Teaching and learning:** Presenting undergraduate and postgraduate statistics modules. Development of new modules and programmes.
+- **Research:** Conducting academic research (publishing of research papers, etc.) and supervision of postgraduate (PhD and Master's) students.
+- **Administration and management:** Help with administrative, organisational and management tasks within the subject group.
+
+#### Added advantages
+
+- Membership with the South African Statistical Association.
+
+**Remuneration:** The annual total remuneration package will be commensurate with the level of appointment as advertised and in line with the NWU policy guidelines.
+
+**Enquiries regarding job content:** Prof David Kubayi, Tel 018 299 2669
+
+**Enquiries regarding the recruitment process:** Dolly Lebepe, Tel 018 285 2037
+
+### How to apply
+
+Applications must be submitted online through the official NWU vacancy website. Incomplete applications and those submitted through any other platform will not be considered.
+
+- The University subscribes to and applies the principles of the Employment Equity (EE) Act and is committed to transformation. Preference will be given to candidates from the designated groups, in accordance with the principles of the EE Act and the NWU Employment Equity Plan.
+- The University reserves the right not to make an appointment. Communication will be limited to shortlisted candidates only.
+- If you are not contacted within two months from the closing date of this advertisement, please accept that your application was unsuccessful.
+
 ## Opportunities at the University of Limpopo
 
 **Closing date: 23 October 2026**
