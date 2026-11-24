@@ -83,7 +83,7 @@ University of Pretoria<br>
 
 | Role | Name | Email |
 |------|------|-------|
-| Funding | Michael von Maltitz | [funding@sastat.org](mailto:funding@sastat.org) |
+| Funding | Inger Fabris-Rotelli | [funding@sastat.org](mailto:funding@sastat.org) |
 | Website and Glue Up | Raeesa Ganey | [webmaster@sastat.org](mailto:webmaster@sastat.org) |
 | Events Coordinator | Johané Nienkemper-Swanepoel | [events@sastat.org](mailto:events@sastat.org) |
 | Information Officer | Brenda Otieno Mac'Oduol | [info@sastat.org](mailto:info@sastat.org) |
