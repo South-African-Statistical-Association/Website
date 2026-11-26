@@ -20,7 +20,7 @@ Please email [membership@sastat.org](mailto:membership@sastat.org) for any queri
 ::: {.tiers}
 ::: {}
 ### Ordinary Membership
-<p class="price">R500</p>
+<p class="price">R550</p>
 <p class="per">per annum, including VAT</p>
 Any individual who has an interest in the mission and goals of the Association is eligible for membership of the Association. Each Ordinary member can attend and vote at the Annual General Meeting, receives access to the Newsletter and SA Statist J, and may attend the conference at full member rates.
 
@@ -49,7 +49,7 @@ Any registered student at any South African tertiary institution is eligible for
 
 ::: {}
 ### Affiliated Membership
-<p class="price">R1000</p>
+<p class="price">R1100</p>
 <p class="per">per annum, including VAT</p>
 Affiliated membership can be obtained by companies, societies and similar organisations. Each Affiliated member can nominate a representative to attend the Annual General Meeting (AGM). An Affiliated member has one vote at the AGM, receives access to the Newsletter and SA Statist J, and may send two delegates to the conference at full member rates.
 
